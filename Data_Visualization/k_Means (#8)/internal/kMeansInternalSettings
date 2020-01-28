@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="kMeans">
+<entry key="dimensions" type="xint" value="6"/>
+<entry key="ignoredColumns" type="xint" value="1"/>
+<config key="clusterCoverage">
+<entry key="array-size" type="xint" value="3"/>
+<entry key="0" type="xint" value="3"/>
+<entry key="1" type="xint" value="22"/>
+<entry key="2" type="xint" value="10"/>
+</config>
+<config key="kMeansCluster0">
+<entry key="array-size" type="xint" value="5"/>
+<entry key="0" type="xdouble" value="-2462.2679588468673"/>
+<entry key="1" type="xdouble" value="14.444888257891023"/>
+<entry key="2" type="xdouble" value="65.29391039067889"/>
+<entry key="3" type="xdouble" value="10.132037840681969"/>
+<entry key="4" type="xdouble" value="5.434968708944804"/>
+</config>
+<config key="kMeansCluster1">
+<entry key="array-size" type="xint" value="5"/>
+<entry key="0" type="xdouble" value="527.2180204092253"/>
+<entry key="1" type="xdouble" value="29.292670976214982"/>
+<entry key="2" type="xdouble" value="5.139730893364838"/>
+<entry key="3" type="xdouble" value="-9.915550172530432"/>
+<entry key="4" type="xdouble" value="-2.617760683965324"/>
+</config>
+<config key="kMeansCluster2">
+<entry key="array-size" type="xint" value="5"/>
+<entry key="0" type="xdouble" value="-421.19925724623545"/>
+<entry key="1" type="xdouble" value="-68.7773426250402"/>
+<entry key="2" type="xdouble" value="-30.89558108260625"/>
+<entry key="3" type="xdouble" value="18.774599027362406"/>
+<entry key="4" type="xdouble" value="4.128582892040252"/>
+</config>
+<config key="FeatureNames">
+<entry key="array-size" type="xint" value="6"/>
+<entry key="0" type="xstring" value="PCA dimension 0"/>
+<entry key="1" type="xstring" value="PCA dimension 1"/>
+<entry key="2" type="xstring" value="PCA dimension 2"/>
+<entry key="3" type="xstring" value="PCA dimension 3"/>
+<entry key="4" type="xstring" value="PCA dimension 4"/>
+<entry key="5" type="xstring" isnull="true" value=""/>
+</config>
+</config>

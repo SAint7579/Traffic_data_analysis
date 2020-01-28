@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Github_Repos\DWDM_Project\Diagrams\SunBurst
+C:\Users\Admin\Desktop\Github_Repos\DWDM_Project\Diagrams\Pie_chart
+C:\Users\Admin\Desktop\Github_Repos\DWDM_Project\Diagrams\Line_chart
+C:\Users\Admin\Desktop\Github_Repos\DWDM_Project\Diagrams\Decision_Tree
+C:\Users\Admin\Desktop\Github_Repos\DWDM_Project\Diagrams\Bar_chart
+C:\Users\Admin\Desktop\Github_Repos\DWDM_Project\Diagrams\scatter_plot
+C:\Users\Admin\Desktop\Github_Repos\DWDM_Project\Diagrams\scatter.jpg
+C:\Users\Admin\Desktop\Github_Repos\DWDM_Project\Diagrams

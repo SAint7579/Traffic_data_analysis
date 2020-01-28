@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="settings.xml">
+<entry key="node_file" type="xstring" value="settings.xml"/>
+<config key="flow_stack"/>
+<config key="internal_node_subsettings">
+<entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
+</config>
+<config key="model">
+<config key="nrClusters_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="nrClusters" type="xint" value="3"/>
+<config key="centroid_initialization_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="centroid_initialization" type="xstring" value="FIRST_ROWS"/>
+<config key="centroid_seeds_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMN_long_seed"/>
+<entry key="EnabledStatus" type="xboolean" value="false"/>
+</config>
+<entry key="centroid_seeds" type="xlong" value="0"/>
+<entry key="centroid_seeds_BOOL" type="xboolean" value="true"/>
+<config key="maxNrIterations_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="maxNrIterations" type="xint" value="99"/>
+<config key="cfgColmns_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_filterString"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<config key="cfgColmns">
+<config key="InclList">
+<entry key="array-size" type="xint" value="5"/>
+<entry key="0" type="xstring" value="PCA dimension 0"/>
+<entry key="1" type="xstring" value="PCA dimension 1"/>
+<entry key="2" type="xstring" value="PCA dimension 2"/>
+<entry key="3" type="xstring" value="PCA dimension 3"/>
+<entry key="4" type="xstring" value="PCA dimension 4"/>
+</config>
+<config key="ExclList">
+<entry key="array-size" type="xint" value="288"/>
+<entry key="0" type="xstring" value="2015-10-04 00:00:00"/>
+<entry key="1" type="xstring" value="2015-10-04 00:05:00"/>
+<entry key="2" type="xstring" value="2015-10-04 00:10:00"/>
+<entry key="3" type="xstring" value="2015-10-04 00:15:00"/>
+<entry key="4" type="xstring" value="2015-10-04 00:20:00"/>
+<entry key="5" type="xstring" value="2015-10-04 00:25:00"/>
+<entry key="6" type="xstring" value="2015-10-04 00:30:00"/>
+<entry key="7" type="xstring" value="2015-10-04 00:35:00"/>
+<entry key="8" type="xstring" value="2015-10-04 00:40:00"/>
+<entry key="9" type="xstring" value="2015-10-04 00:45:00"/>
+<entry key="10" type="xstring" value="2015-10-04 00:50:00"/>
+<entry key="11" type="xstring" value="2015-10-04 00:55:00"/>
+<entry key="12" type="xstring" value="2015-10-04 01:00:00"/>
+<entry key="13" type="xstring" value="2015-10-04 01:05:00"/>
+<entry key="14" type="xstring" value="2015-10-04 01:10:00"/>
+<entry key="15" type="xstring" value="2015-10-04 01:15:00"/>
+<entry key="16" type="xstring" value="2015-10-04 01:20:00"/>
+<entry key="17" type="xstring" value="2015-10-04 01:25:00"/>
+<entry key="18" type="xstring" value="2015-10-04 01:30:00"/>
+<entry key="19" type="xstring" value="2015-10-04 01:35:00"/>
+<entry key="20" type="xstring" value="2015-10-04 01:40:00"/>
+<entry key="21" type="xstring" value="2015-10-04 01:45:00"/>
+<entry key="22" type="xstring" value="2015-10-04 01:50:00"/>
+<entry key="23" type="xstring" value="2015-10-04 01:55:00"/>
+<entry key="24" type="xstring" value="2015-10-04 02:00:00"/>
+<entry key="25" type="xstring" value="2015-10-04 02:05:00"/>
+<entry key="26" type="xstring" value="2015-10-04 02:10:00"/>
+<entry key="27" type="xstring" value="2015-10-04 02:15:00"/>
+<entry key="28" type="xstring" value="2015-10-04 02:20:00"/>
+<entry key="29" type="xstring" value="2015-10-04 02:25:00"/>
+<entry key="30" type="xstring" value="2015-10-04 02:30:00"/>
+<entry key="31" type="xstring" value="2015-10-04 02:35:00"/>
+<entry key="32" type="xstring" value="2015-10-04 02:40:00"/>
+<entry key="33" type="xstring" value="2015-10-04 02:45:00"/>
+<entry key="34" type="xstring" value="2015-10-04 02:50:00"/>
+<entry key="35" type="xstring" value="2015-10-04 02:55:00"/>
+<entry key="36" type="xstring" value="2015-10-04 03:00:00"/>
+<entry key="37" type="xstring" value="2015-10-04 03:05:00"/>
+<entry key="38" type="xstring" value="2015-10-04 03:10:00"/>
+<entry key="39" type="xstring" value="2015-10-04 03:15:00"/>
+<entry key="40" type="xstring" value="2015-10-04 03:20:00"/>
+<entry key="41" type="xstring" value="2015-10-04 03:25:00"/>
+<entry key="42" type="xstring" value="2015-10-04 03:30:00"/>
+<entry key="43" type="xstring" value="2015-10-04 03:35:00"/>
+<entry key="44" type="xstring" value="2015-10-04 03:40:00"/>
+<entry key="45" type="xstring" value="2015-10-04 03:45:00"/>
+<entry key="46" type="xstring" value="2015-10-04 03:50:00"/>
+<entry key="47" type="xstring" value="2015-10-04 03:55:00"/>
+<entry key="48" type="xstring" value="2015-10-04 04:00:00"/>
+<entry key="49" type="xstring" value="2015-10-04 04:05:00"/>
+<entry key="50" type="xstring" value="2015-10-04 04:10:00"/>
+<entry key="51" type="xstring" value="2015-10-04 04:15:00"/>
+<entry key="52" type="xstring" value="2015-10-04 04:20:00"/>
+<entry key="53" type="xstring" value="2015-10-04 04:25:00"/>
+<entry key="54" type="xstring" value="2015-10-04 04:30:00"/>
+<entry key="55" type="xstring" value="2015-10-04 04:35:00"/>
+<entry key="56" type="xstring" value="2015-10-04 04:40:00"/>
+<entry key="57" type="xstring" value="2015-10-04 04:45:00"/>
+<entry key="58" type="xstring" value="2015-10-04 04:50:00"/>
+<entry key="59" type="xstring" value="2015-10-04 04:55:00"/>
+<entry key="60" type="xstring" value="2015-10-04 05:00:00"/>
+<entry key="61" type="xstring" value="2015-10-04 05:05:00"/>
+<entry key="62" type="xstring" value="2015-10-04 05:10:00"/>
+<entry key="63" type="xstring" value="2015-10-04 05:15:00"/>
+<entry key="64" type="xstring" value="2015-10-04 05:20:00"/>
+<entry key="65" type="xstring" value="2015-10-04 05:25:00"/>
+<entry key="66" type="xstring" value="2015-10-04 05:30:00"/>
+<entry key="67" type="xstring" value="2015-10-04 05:35:00"/>
+<entry key="68" type="xstring" value="2015-10-04 05:40:00"/>
+<entry key="69" type="xstring" value="2015-10-04 05:45:00"/>
+<entry key="70" type="xstring" value="2015-10-04 05:50:00"/>
+<entry key="71" type="xstring" value="2015-10-04 05:55:00"/>
+<entry key="72" type="xstring" value="2015-10-04 06:00:00"/>
+<entry key="73" type="xstring" value="2015-10-04 06:05:00"/>
+<entry key="74" type="xstring" value="2015-10-04 06:10:00"/>
+<entry key="75" type="xstring" value="2015-10-04 06:15:00"/>
+<entry key="76" type="xstring" value="2015-10-04 06:20:00"/>
+<entry key="77" type="xstring" value="2015-10-04 06:25:00"/>
+<entry key="78" type="xstring" value="2015-10-04 06:30:00"/>
+<entry key="79" type="xstring" value="2015-10-04 06:35:00"/>
+<entry key="80" type="xstring" value="2015-10-04 06:40:00"/>
+<entry key="81" type="xstring" value="2015-10-04 06:45:00"/>
+<entry key="82" type="xstring" value="2015-10-04 06:50:00"/>
+<entry key="83" type="xstring" value="2015-10-04 06:55:00"/>
+<entry key="84" type="xstring" value="2015-10-04 07:00:00"/>
+<entry key="85" type="xstring" value="2015-10-04 07:05:00"/>
+<entry key="86" type="xstring" value="2015-10-04 07:10:00"/>
+<entry key="87" type="xstring" value="2015-10-04 07:15:00"/>
+<entry key="88" type="xstring" value="2015-10-04 07:20:00"/>
+<entry key="89" type="xstring" value="2015-10-04 07:25:00"/>
+<entry key="90" type="xstring" value="2015-10-04 07:30:00"/>
+<entry key="91" type="xstring" value="2015-10-04 07:35:00"/>
+<entry key="92" type="xstring" value="2015-10-04 07:40:00"/>
+<entry key="93" type="xstring" value="2015-10-04 07:45:00"/>
+<entry key="94" type="xstring" value="2015-10-04 07:50:00"/>
+<entry key="95" type="xstring" value="2015-10-04 07:55:00"/>
+<entry key="96" type="xstring" value="2015-10-04 08:00:00"/>
+<entry key="97" type="xstring" value="2015-10-04 08:05:00"/>
+<entry key="98" type="xstring" value="2015-10-04 08:10:00"/>
+<entry key="99" type="xstring" value="2015-10-04 08:15:00"/>
+<entry key="100" type="xstring" value="2015-10-04 08:20:00"/>
+<entry key="101" type="xstring" value="2015-10-04 08:25:00"/>
+<entry key="102" type="xstring" value="2015-10-04 08:30:00"/>
+<entry key="103" type="xstring" value="2015-10-04 08:35:00"/>
+<entry key="104" type="xstring" value="2015-10-04 08:40:00"/>
+<entry key="105" type="xstring" value="2015-10-04 08:45:00"/>
+<entry key="106" type="xstring" value="2015-10-04 08:50:00"/>
+<entry key="107" type="xstring" value="2015-10-04 08:55:00"/>
+<entry key="108" type="xstring" value="2015-10-04 09:00:00"/>
+<entry key="109" type="xstring" value="2015-10-04 09:05:00"/>
+<entry key="110" type="xstring" value="2015-10-04 09:10:00"/>
+<entry key="111" type="xstring" value="2015-10-04 09:15:00"/>
+<entry key="112" type="xstring" value="2015-10-04 09:20:00"/>
+<entry key="113" type="xstring" value="2015-10-04 09:25:00"/>
+<entry key="114" type="xstring" value="2015-10-04 09:30:00"/>
+<entry key="115" type="xstring" value="2015-10-04 09:35:00"/>
+<entry key="116" type="xstring" value="2015-10-04 09:40:00"/>
+<entry key="117" type="xstring" value="2015-10-04 09:45:00"/>
+<entry key="118" type="xstring" value="2015-10-04 09:50:00"/>
+<entry key="119" type="xstring" value="2015-10-04 09:55:00"/>
+<entry key="120" type="xstring" value="2015-10-04 10:00:00"/>
+<entry key="121" type="xstring" value="2015-10-04 10:05:00"/>
+<entry key="122" type="xstring" value="2015-10-04 10:10:00"/>
+<entry key="123" type="xstring" value="2015-10-04 10:15:00"/>
+<entry key="124" type="xstring" value="2015-10-04 10:20:00"/>
+<entry key="125" type="xstring" value="2015-10-04 10:25:00"/>
+<entry key="126" type="xstring" value="2015-10-04 10:30:00"/>
+<entry key="127" type="xstring" value="2015-10-04 10:35:00"/>
+<entry key="128" type="xstring" value="2015-10-04 10:40:00"/>
+<entry key="129" type="xstring" value="2015-10-04 10:45:00"/>
+<entry key="130" type="xstring" value="2015-10-04 10:50:00"/>
+<entry key="131" type="xstring" value="2015-10-04 10:55:00"/>
+<entry key="132" type="xstring" value="2015-10-04 11:00:00"/>
+<entry key="133" type="xstring" value="2015-10-04 11:05:00"/>
+<entry key="134" type="xstring" value="2015-10-04 11:10:00"/>
+<entry key="135" type="xstring" value="2015-10-04 11:15:00"/>
+<entry key="136" type="xstring" value="2015-10-04 11:20:00"/>
+<entry key="137" type="xstring" value="2015-10-04 11:25:00"/>
+<entry key="138" type="xstring" value="2015-10-04 11:30:00"/>
+<entry key="139" type="xstring" value="2015-10-04 11:35:00"/>
+<entry key="140" type="xstring" value="2015-10-04 11:40:00"/>
+<entry key="141" type="xstring" value="2015-10-04 11:45:00"/>
+<entry key="142" type="xstring" value="2015-10-04 11:50:00"/>
+<entry key="143" type="xstring" value="2015-10-04 11:55:00"/>
+<entry key="144" type="xstring" value="2015-10-04 12:00:00"/>
+<entry key="145" type="xstring" value="2015-10-04 12:05:00"/>
+<entry key="146" type="xstring" value="2015-10-04 12:10:00"/>
+<entry key="147" type="xstring" value="2015-10-04 12:15:00"/>
+<entry key="148" type="xstring" value="2015-10-04 12:20:00"/>
+<entry key="149" type="xstring" value="2015-10-04 12:25:00"/>
+<entry key="150" type="xstring" value="2015-10-04 12:30:00"/>
+<entry key="151" type="xstring" value="2015-10-04 12:35:00"/>
+<entry key="152" type="xstring" value="2015-10-04 12:40:00"/>
+<entry key="153" type="xstring" value="2015-10-04 12:45:00"/>
+<entry key="154" type="xstring" value="2015-10-04 12:50:00"/>
+<entry key="155" type="xstring" value="2015-10-04 12:55:00"/>
+<entry key="156" type="xstring" value="2015-10-04 13:00:00"/>
+<entry key="157" type="xstring" value="2015-10-04 13:05:00"/>
+<entry key="158" type="xstring" value="2015-10-04 13:10:00"/>
+<entry key="159" type="xstring" value="2015-10-04 13:15:00"/>
+<entry key="160" type="xstring" value="2015-10-04 13:20:00"/>
+<entry key="161" type="xstring" value="2015-10-04 13:25:00"/>
+<entry key="162" type="xstring" value="2015-10-04 13:30:00"/>
+<entry key="163" type="xstring" value="2015-10-04 13:35:00"/>
+<entry key="164" type="xstring" value="2015-10-04 13:40:00"/>
+<entry key="165" type="xstring" value="2015-10-04 13:45:00"/>
+<entry key="166" type="xstring" value="2015-10-04 13:50:00"/>
+<entry key="167" type="xstring" value="2015-10-04 13:55:00"/>
+<entry key="168" type="xstring" value="2015-10-04 14:00:00"/>
+<entry key="169" type="xstring" value="2015-10-04 14:05:00"/>
+<entry key="170" type="xstring" value="2015-10-04 14:10:00"/>
+<entry key="171" type="xstring" value="2015-10-04 14:15:00"/>
+<entry key="172" type="xstring" value="2015-10-04 14:20:00"/>
+<entry key="173" type="xstring" value="2015-10-04 14:25:00"/>
+<entry key="174" type="xstring" value="2015-10-04 14:30:00"/>
+<entry key="175" type="xstring" value="2015-10-04 14:35:00"/>
+<entry key="176" type="xstring" value="2015-10-04 14:40:00"/>
+<entry key="177" type="xstring" value="2015-10-04 14:45:00"/>
+<entry key="178" type="xstring" value="2015-10-04 14:50:00"/>
+<entry key="179" type="xstring" value="2015-10-04 14:55:00"/>
+<entry key="180" type="xstring" value="2015-10-04 15:00:00"/>
+<entry key="181" type="xstring" value="2015-10-04 15:05:00"/>
+<entry key="182" type="xstring" value="2015-10-04 15:10:00"/>
+<entry key="183" type="xstring" value="2015-10-04 15:15:00"/>
+<entry key="184" type="xstring" value="2015-10-04 15:20:00"/>
+<entry key="185" type="xstring" value="2015-10-04 15:25:00"/>
+<entry key="186" type="xstring" value="2015-10-04 15:30:00"/>
+<entry key="187" type="xstring" value="2015-10-04 15:35:00"/>
+<entry key="188" type="xstring" value="2015-10-04 15:40:00"/>
+<entry key="189" type="xstring" value="2015-10-04 15:45:00"/>
+<entry key="190" type="xstring" value="2015-10-04 15:50:00"/>
+<entry key="191" type="xstring" value="2015-10-04 15:55:00"/>
+<entry key="192" type="xstring" value="2015-10-04 16:00:00"/>
+<entry key="193" type="xstring" value="2015-10-04 16:05:00"/>
+<entry key="194" type="xstring" value="2015-10-04 16:10:00"/>
+<entry key="195" type="xstring" value="2015-10-04 16:15:00"/>
+<entry key="196" type="xstring" value="2015-10-04 16:20:00"/>
+<entry key="197" type="xstring" value="2015-10-04 16:25:00"/>
+<entry key="198" type="xstring" value="2015-10-04 16:30:00"/>
+<entry key="199" type="xstring" value="2015-10-04 16:35:00"/>
+<entry key="200" type="xstring" value="2015-10-04 16:40:00"/>
+<entry key="201" type="xstring" value="2015-10-04 16:45:00"/>
+<entry key="202" type="xstring" value="2015-10-04 16:50:00"/>
+<entry key="203" type="xstring" value="2015-10-04 16:55:00"/>
+<entry key="204" type="xstring" value="2015-10-04 17:00:00"/>
+<entry key="205" type="xstring" value="2015-10-04 17:05:00"/>
+<entry key="206" type="xstring" value="2015-10-04 17:10:00"/>
+<entry key="207" type="xstring" value="2015-10-04 17:15:00"/>
+<entry key="208" type="xstring" value="2015-10-04 17:20:00"/>
+<entry key="209" type="xstring" value="2015-10-04 17:25:00"/>
+<entry key="210" type="xstring" value="2015-10-04 17:30:00"/>
+<entry key="211" type="xstring" value="2015-10-04 17:35:00"/>
+<entry key="212" type="xstring" value="2015-10-04 17:40:00"/>
+<entry key="213" type="xstring" value="2015-10-04 17:45:00"/>
+<entry key="214" type="xstring" value="2015-10-04 17:50:00"/>
+<entry key="215" type="xstring" value="2015-10-04 17:55:00"/>
+<entry key="216" type="xstring" value="2015-10-04 18:00:00"/>
+<entry key="217" type="xstring" value="2015-10-04 18:05:00"/>
+<entry key="218" type="xstring" value="2015-10-04 18:10:00"/>
+<entry key="219" type="xstring" value="2015-10-04 18:15:00"/>
+<entry key="220" type="xstring" value="2015-10-04 18:20:00"/>
+<entry key="221" type="xstring" value="2015-10-04 18:25:00"/>
+<entry key="222" type="xstring" value="2015-10-04 18:30:00"/>
+<entry key="223" type="xstring" value="2015-10-04 18:35:00"/>
+<entry key="224" type="xstring" value="2015-10-04 18:40:00"/>
+<entry key="225" type="xstring" value="2015-10-04 18:45:00"/>
+<entry key="226" type="xstring" value="2015-10-04 18:50:00"/>
+<entry key="227" type="xstring" value="2015-10-04 18:55:00"/>
+<entry key="228" type="xstring" value="2015-10-04 19:00:00"/>
+<entry key="229" type="xstring" value="2015-10-04 19:05:00"/>
+<entry key="230" type="xstring" value="2015-10-04 19:10:00"/>
+<entry key="231" type="xstring" value="2015-10-04 19:15:00"/>
+<entry key="232" type="xstring" value="2015-10-04 19:20:00"/>
+<entry key="233" type="xstring" value="2015-10-04 19:25:00"/>
+<entry key="234" type="xstring" value="2015-10-04 19:30:00"/>
+<entry key="235" type="xstring" value="2015-10-04 19:35:00"/>
+<entry key="236" type="xstring" value="2015-10-04 19:40:00"/>
+<entry key="237" type="xstring" value="2015-10-04 19:45:00"/>
+<entry key="238" type="xstring" value="2015-10-04 19:50:00"/>
+<entry key="239" type="xstring" value="2015-10-04 19:55:00"/>
+<entry key="240" type="xstring" value="2015-10-04 20:00:00"/>
+<entry key="241" type="xstring" value="2015-10-04 20:05:00"/>
+<entry key="242" type="xstring" value="2015-10-04 20:10:00"/>
+<entry key="243" type="xstring" value="2015-10-04 20:15:00"/>
+<entry key="244" type="xstring" value="2015-10-04 20:20:00"/>
+<entry key="245" type="xstring" value="2015-10-04 20:25:00"/>
+<entry key="246" type="xstring" value="2015-10-04 20:30:00"/>
+<entry key="247" type="xstring" value="2015-10-04 20:35:00"/>
+<entry key="248" type="xstring" value="2015-10-04 20:40:00"/>
+<entry key="249" type="xstring" value="2015-10-04 20:45:00"/>
+<entry key="250" type="xstring" value="2015-10-04 20:50:00"/>
+<entry key="251" type="xstring" value="2015-10-04 20:55:00"/>
+<entry key="252" type="xstring" value="2015-10-04 21:00:00"/>
+<entry key="253" type="xstring" value="2015-10-04 21:05:00"/>
+<entry key="254" type="xstring" value="2015-10-04 21:10:00"/>
+<entry key="255" type="xstring" value="2015-10-04 21:15:00"/>
+<entry key="256" type="xstring" value="2015-10-04 21:20:00"/>
+<entry key="257" type="xstring" value="2015-10-04 21:25:00"/>
+<entry key="258" type="xstring" value="2015-10-04 21:30:00"/>
+<entry key="259" type="xstring" value="2015-10-04 21:35:00"/>
+<entry key="260" type="xstring" value="2015-10-04 21:40:00"/>
+<entry key="261" type="xstring" value="2015-10-04 21:45:00"/>
+<entry key="262" type="xstring" value="2015-10-04 21:50:00"/>
+<entry key="263" type="xstring" value="2015-10-04 21:55:00"/>
+<entry key="264" type="xstring" value="2015-10-04 22:00:00"/>
+<entry key="265" type="xstring" value="2015-10-04 22:05:00"/>
+<entry key="266" type="xstring" value="2015-10-04 22:10:00"/>
+<entry key="267" type="xstring" value="2015-10-04 22:15:00"/>
+<entry key="268" type="xstring" value="2015-10-04 22:20:00"/>
+<entry key="269" type="xstring" value="2015-10-04 22:25:00"/>
+<entry key="270" type="xstring" value="2015-10-04 22:30:00"/>
+<entry key="271" type="xstring" value="2015-10-04 22:35:00"/>
+<entry key="272" type="xstring" value="2015-10-04 22:40:00"/>
+<entry key="273" type="xstring" value="2015-10-04 22:45:00"/>
+<entry key="274" type="xstring" value="2015-10-04 22:50:00"/>
+<entry key="275" type="xstring" value="2015-10-04 22:55:00"/>
+<entry key="276" type="xstring" value="2015-10-04 23:00:00"/>
+<entry key="277" type="xstring" value="2015-10-04 23:05:00"/>
+<entry key="278" type="xstring" value="2015-10-04 23:10:00"/>
+<entry key="279" type="xstring" value="2015-10-04 23:15:00"/>
+<entry key="280" type="xstring" value="2015-10-04 23:20:00"/>
+<entry key="281" type="xstring" value="2015-10-04 23:25:00"/>
+<entry key="282" type="xstring" value="2015-10-04 23:30:00"/>
+<entry key="283" type="xstring" value="2015-10-04 23:35:00"/>
+<entry key="284" type="xstring" value="2015-10-04 23:40:00"/>
+<entry key="285" type="xstring" value="2015-10-04 23:45:00"/>
+<entry key="286" type="xstring" value="2015-10-04 23:50:00"/>
+<entry key="287" type="xstring" value="2015-10-04 23:55:00"/>
+</config>
+<entry key="keep_all_columns_selected" type="xboolean" value="false"/>
+</config>
+<config key="enableHilite_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="enableHilite" type="xboolean" value="false"/>
+</config>
+<entry key="customDescription" type="xstring" isnull="true" value=""/>
+<entry key="state" type="xstring" value="EXECUTED"/>
+<entry key="factory" type="xstring" value="org.knime.base.node.mine.cluster.kmeans.ClusterNodeFactory2"/>
+<entry key="node-name" type="xstring" value="k-Means"/>
+<entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
+<entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
+<entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
+<entry key="node-bundle-version" type="xstring" value="4.1.0.v201912041211"/>
+<entry key="node-feature-name" type="xstring" value="KNIME Core"/>
+<entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
+<entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
+<entry key="node-feature-version" type="xstring" value="4.1.0.v201912041824"/>
+<config key="factory_settings"/>
+<entry key="name" type="xstring" value="k-Means"/>
+<entry key="hasContent" type="xboolean" value="true"/>
+<entry key="isInactive" type="xboolean" value="false"/>
+<config key="ports">
+<config key="port_1">
+<entry key="index" type="xint" value="1"/>
+<entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
+<entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 35, Cols: 7"/>
+<entry key="port_dir_location" type="xstring" value="port_1"/>
+</config>
+<config key="port_2">
+<entry key="index" type="xint" value="2"/>
+<entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
+<entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 3, Cols: 5"/>
+<entry key="port_dir_location" type="xstring" value="port_2"/>
+</config>
+<config key="port_3">
+<entry key="index" type="xint" value="3"/>
+<entry key="port_spec_class" type="xstring" value="org.knime.core.node.port.pmml.PMMLPortObjectSpec"/>
+<entry key="port_object_class" type="xstring" value="org.knime.core.node.port.pmml.PMMLPortObject"/>
+<entry key="port_object_summary" type="xstring" value="PMML document with version 4.2 and models: ClusteringModel"/>
+<entry key="port_spec_location" type="xstring" value="spec/spec.zip"/>
+<entry key="port_object_location" type="xstring" value="object/portobject.zip"/>
+<entry key="port_dir_location" type="xstring" value="port_3"/>
+</config>
+</config>
+<config key="filestores">
+<entry key="file_store_location" type="xstring" isnull="true" value=""/>
+<entry key="file_store_id" type="xstring" value="112a032e-5503-45ce-a014-3a82d2775ece"/>
+</config>
+</config>

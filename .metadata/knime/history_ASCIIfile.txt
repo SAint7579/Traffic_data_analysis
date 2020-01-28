@@ -1,2 +1,3 @@
 knime://LOCAL/Visualization.csv
+knime://LOCAL/dataset.csv
 knime://knime.workflow/data.all

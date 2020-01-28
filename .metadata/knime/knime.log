@@ -5,3 +5,349 @@ java.io.IOException: Downloaded file doesn't contain node recommendation data.
 	at org.knime.workbench.workflowcoach.data.AbstractFileDownloadTripleProvider.update(AbstractFileDownloadTripleProvider.java:169)
 	at org.knime.workbench.workflowcoach.prefs.UpdateJob.run(UpdateJob.java:132)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+2020-01-28 22:07:35,043 : WARN  : main :  : Node : File Reader : 2:2 : Missing settings. Please configure the node.
+2020-01-28 22:14:45,929 : ERROR : KNIME-Worker-13-Bar Chart 2:5 :  : ChromeImageGenerator : Bar Chart : 2:5 : Could not initialize Chrome driver. unknown error: Chrome failed to start: crashed
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\KNIME\plugins\org.knime.ext.chromium.bin.win32.x86_78.0.3904.87\win32\x86\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-CCJ723D', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x0101A903+1550595]
+	Ordinal0 [0x00F9A701+1025793]
+	Ordinal0 [0x00F1C6E5+509669]
+	Ordinal0 [0x00EACB0B+51979]
+	Ordinal0 [0x00ECACE7+175335]
+	Ordinal0 [0x00ECA8ED+174317]
+	Ordinal0 [0x00EC8CDB+167131]
+	Ordinal0 [0x00EB144A+70730]
+	Ordinal0 [0x00EB24D0+74960]
+	Ordinal0 [0x00EB2469+74857]
+	Ordinal0 [0x00FB42C7+1131207]
+	GetHandleVerifier [0x010B70FD+523789]
+	GetHandleVerifier [0x010B6E90+523168]
+	GetHandleVerifier [0x010BE1E7+552695]
+	GetHandleVerifier [0x010B78FA+525834]
+	Ordinal0 [0x00FAB7FC+1095676]
+	Ordinal0 [0x00FB633B+1139515]
+	Ordinal0 [0x00FB64A3+1139875]
+	Ordinal0 [0x00FB5425+1135653]
+	BaseThreadInitThunk [0x76D06359+25]
+	RtlGetAppContainerNamedObjectPath [0x77397B74+228]
+	RtlGetAppContainerNamedObjectPath [0x77397B44+180]
+
+org.openqa.selenium.WebDriverException: unknown error: Chrome failed to start: crashed
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\KNIME\plugins\org.knime.ext.chromium.bin.win32.x86_78.0.3904.87\win32\x86\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-CCJ723D', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x0101A903+1550595]
+	Ordinal0 [0x00F9A701+1025793]
+	Ordinal0 [0x00F1C6E5+509669]
+	Ordinal0 [0x00EACB0B+51979]
+	Ordinal0 [0x00ECACE7+175335]
+	Ordinal0 [0x00ECA8ED+174317]
+	Ordinal0 [0x00EC8CDB+167131]
+	Ordinal0 [0x00EB144A+70730]
+	Ordinal0 [0x00EB24D0+74960]
+	Ordinal0 [0x00EB2469+74857]
+	Ordinal0 [0x00FB42C7+1131207]
+	GetHandleVerifier [0x010B70FD+523789]
+	GetHandleVerifier [0x010B6E90+523168]
+	GetHandleVerifier [0x010BE1E7+552695]
+	GetHandleVerifier [0x010B78FA+525834]
+	Ordinal0 [0x00FAB7FC+1095676]
+	Ordinal0 [0x00FB633B+1139515]
+	Ordinal0 [0x00FB64A3+1139875]
+	Ordinal0 [0x00FB5425+1135653]
+	BaseThreadInitThunk [0x76D06359+25]
+	RtlGetAppContainerNamedObjectPath [0x77397B74+228]
+	RtlGetAppContainerNamedObjectPath [0x77397B44+180]
+
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.W3CHandshakeResponse.lambda$new$0(W3CHandshakeResponse.java:57)
+	at org.openqa.selenium.remote.W3CHandshakeResponse.lambda$getResponseFunction$2(W3CHandshakeResponse.java:104)
+	at org.openqa.selenium.remote.ProtocolHandshake.lambda$createSession$0(ProtocolHandshake.java:123)
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:193)
+	at java.util.Spliterators$ArraySpliterator.tryAdvance(Spliterators.java:958)
+	at java.util.stream.ReferencePipeline.forEachWithCancel(ReferencePipeline.java:126)
+	at java.util.stream.AbstractPipeline.copyIntoWithCancel(AbstractPipeline.java:498)
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:485)
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:471)
+	at java.util.stream.FindOps$FindOp.evaluateSequential(FindOps.java:152)
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.util.stream.ReferencePipeline.findFirst(ReferencePipeline.java:464)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:126)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:73)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:136)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:207)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:130)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:181)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:168)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:157)
+	at org.knime.ext.seleniumdrivers.multios.ChromeImageGenerator.initDriver(ChromeImageGenerator.java:177)
+	at org.knime.ext.seleniumdrivers.multios.ChromiumImageGenerator.initDriver(ChromiumImageGenerator.java:80)
+	at org.knime.ext.seleniumdrivers.multios.ChromeImageGenerator.generateView(ChromeImageGenerator.java:220)
+	at org.knime.js.core.node.AbstractImageWizardNodeModel.renderViewAndCreateImage(AbstractImageWizardNodeModel.java:141)
+	at org.knime.js.core.node.AbstractImageWizardNodeModel.performExecute(AbstractImageWizardNodeModel.java:104)
+	at org.knime.js.core.node.AbstractWizardNodeModel.execute(AbstractWizardNodeModel.java:136)
+	at org.knime.core.node.NodeModel.executeModel(NodeModel.java:574)
+	at org.knime.core.node.Node.invokeFullyNodeModelExecute(Node.java:1229)
+	at org.knime.core.node.Node.execute(Node.java:1016)
+	at org.knime.core.node.workflow.NativeNodeContainer.performExecuteNode(NativeNodeContainer.java:557)
+	at org.knime.core.node.exec.LocalNodeExecutionJob.mainExecute(LocalNodeExecutionJob.java:95)
+	at org.knime.core.node.workflow.NodeExecutionJob.internalRun(NodeExecutionJob.java:218)
+	at org.knime.core.node.workflow.NodeExecutionJob.run(NodeExecutionJob.java:124)
+	at org.knime.core.util.ThreadUtils$RunnableWithContextImpl.runWithContext(ThreadUtils.java:334)
+	at org.knime.core.util.ThreadUtils$RunnableWithContext.run(ThreadUtils.java:210)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at org.knime.core.util.ThreadPool$MyFuture.run(ThreadPool.java:123)
+	at org.knime.core.util.ThreadPool$Worker.run(ThreadPool.java:246)
+2020-01-28 22:14:45,932 : ERROR : KNIME-Worker-13-Bar Chart 2:5 :  : AbstractImageWizardNodeModel : Bar Chart : 2:5 : Initializing view failed: Could not initialize Chrome driver. Check log for more details. 
+
+The browser can be configured in Preferences -> KNIME -> JavaScript Views
+org.knime.ext.seleniumdrivers.multios.SeleniumViewException: Could not initialize Chrome driver. Check log for more details. 
+
+The browser can be configured in Preferences -> KNIME -> JavaScript Views
+	at org.knime.ext.seleniumdrivers.multios.ChromeImageGenerator.initDriver(ChromeImageGenerator.java:204)
+	at org.knime.ext.seleniumdrivers.multios.ChromiumImageGenerator.initDriver(ChromiumImageGenerator.java:80)
+	at org.knime.ext.seleniumdrivers.multios.ChromeImageGenerator.generateView(ChromeImageGenerator.java:220)
+	at org.knime.js.core.node.AbstractImageWizardNodeModel.renderViewAndCreateImage(AbstractImageWizardNodeModel.java:141)
+	at org.knime.js.core.node.AbstractImageWizardNodeModel.performExecute(AbstractImageWizardNodeModel.java:104)
+	at org.knime.js.core.node.AbstractWizardNodeModel.execute(AbstractWizardNodeModel.java:136)
+	at org.knime.core.node.NodeModel.executeModel(NodeModel.java:574)
+	at org.knime.core.node.Node.invokeFullyNodeModelExecute(Node.java:1229)
+	at org.knime.core.node.Node.execute(Node.java:1016)
+	at org.knime.core.node.workflow.NativeNodeContainer.performExecuteNode(NativeNodeContainer.java:557)
+	at org.knime.core.node.exec.LocalNodeExecutionJob.mainExecute(LocalNodeExecutionJob.java:95)
+	at org.knime.core.node.workflow.NodeExecutionJob.internalRun(NodeExecutionJob.java:218)
+	at org.knime.core.node.workflow.NodeExecutionJob.run(NodeExecutionJob.java:124)
+	at org.knime.core.util.ThreadUtils$RunnableWithContextImpl.runWithContext(ThreadUtils.java:334)
+	at org.knime.core.util.ThreadUtils$RunnableWithContext.run(ThreadUtils.java:210)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at org.knime.core.util.ThreadPool$MyFuture.run(ThreadPool.java:123)
+	at org.knime.core.util.ThreadPool$Worker.run(ThreadPool.java:246)
+2020-01-28 22:14:45,933 : ERROR : KNIME-Worker-13-Bar Chart 2:5 :  : AbstractImageWizardNodeModel : Bar Chart : 2:5 : Retrieving image from view failed: Error retrieving image: Chrome driver was not initialized. Could not retrieve image.
+java.io.IOException: Error retrieving image: Chrome driver was not initialized. Could not retrieve image.
+	at org.knime.ext.seleniumdrivers.multios.ChromeImageGenerator.retrieveImage(ChromeImageGenerator.java:309)
+	at org.knime.js.core.node.AbstractImageWizardNodeModel.renderViewAndCreateImage(AbstractImageWizardNodeModel.java:164)
+	at org.knime.js.core.node.AbstractImageWizardNodeModel.performExecute(AbstractImageWizardNodeModel.java:104)
+	at org.knime.js.core.node.AbstractWizardNodeModel.execute(AbstractWizardNodeModel.java:136)
+	at org.knime.core.node.NodeModel.executeModel(NodeModel.java:574)
+	at org.knime.core.node.Node.invokeFullyNodeModelExecute(Node.java:1229)
+	at org.knime.core.node.Node.execute(Node.java:1016)
+	at org.knime.core.node.workflow.NativeNodeContainer.performExecuteNode(NativeNodeContainer.java:557)
+	at org.knime.core.node.exec.LocalNodeExecutionJob.mainExecute(LocalNodeExecutionJob.java:95)
+	at org.knime.core.node.workflow.NodeExecutionJob.internalRun(NodeExecutionJob.java:218)
+	at org.knime.core.node.workflow.NodeExecutionJob.run(NodeExecutionJob.java:124)
+	at org.knime.core.util.ThreadUtils$RunnableWithContextImpl.runWithContext(ThreadUtils.java:334)
+	at org.knime.core.util.ThreadUtils$RunnableWithContext.run(ThreadUtils.java:210)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at org.knime.core.util.ThreadPool$MyFuture.run(ThreadPool.java:123)
+	at org.knime.core.util.ThreadPool$Worker.run(ThreadPool.java:246)
+Caused by: org.knime.ext.seleniumdrivers.multios.SeleniumViewException: Chrome driver was not initialized. Could not retrieve image.
+	at org.knime.ext.seleniumdrivers.multios.ChromeImageGenerator.retrieveImage(ChromeImageGenerator.java:291)
+	... 16 more
+2020-01-28 22:16:16,694 : WARN  : main :  : Node : Image Writer (Port) : 2:6 : No destination location provided! Please enter a valid location.
+2020-01-28 22:25:04,621 : ERROR : KNIME-Worker-19-Image Writer (Port) 2:6 :  : Node : Image Writer (Port) : 2:6 : Execute failed: Output file 'C:\Users\Admin\Desktop\Github_Repos\DWDM_Project\Diagrams\scatter_plot.svg' exists and must not be overwritten due to user settings
+org.knime.core.node.InvalidSettingsException: Output file 'C:\Users\Admin\Desktop\Github_Repos\DWDM_Project\Diagrams\scatter_plot.svg' exists and must not be overwritten due to user settings
+	at org.knime.core.node.util.CheckUtils.checkDestinationFile(CheckUtils.java:361)
+	at org.knime.core.node.util.CheckUtils.checkDestinationFile(CheckUtils.java:322)
+	at org.knime.base.node.image.writeimage.WriteImageNodeModel.getOutputLocation(WriteImageNodeModel.java:129)
+	at org.knime.base.node.image.writeimage.WriteImageNodeModel.execute(WriteImageNodeModel.java:152)
+	at org.knime.core.node.NodeModel.executeModel(NodeModel.java:574)
+	at org.knime.core.node.Node.invokeFullyNodeModelExecute(Node.java:1229)
+	at org.knime.core.node.Node.execute(Node.java:1016)
+	at org.knime.core.node.workflow.NativeNodeContainer.performExecuteNode(NativeNodeContainer.java:557)
+	at org.knime.core.node.exec.LocalNodeExecutionJob.mainExecute(LocalNodeExecutionJob.java:95)
+	at org.knime.core.node.workflow.NodeExecutionJob.internalRun(NodeExecutionJob.java:218)
+	at org.knime.core.node.workflow.NodeExecutionJob.run(NodeExecutionJob.java:124)
+	at org.knime.core.util.ThreadUtils$RunnableWithContextImpl.runWithContext(ThreadUtils.java:334)
+	at org.knime.core.util.ThreadUtils$RunnableWithContext.run(ThreadUtils.java:210)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at org.knime.core.util.ThreadPool$MyFuture.run(ThreadPool.java:123)
+	at org.knime.core.util.ThreadPool$Worker.run(ThreadPool.java:246)
+2020-01-28 22:29:34,829 : WARN  : main :  : Node : Decision Tree Learner : 2:10 : Table contains no nominal attribute for classification.
+2020-01-28 22:29:48,233 : WARN  : main :  : Node : Decision Tree Learner : 2:10 : Guessing target column: "Cluster".
+2020-01-28 22:40:22,988 : WARN  : main :  : Node : Image Writer (Port) : 2:11 : Output file 'C:\Users\Admin\Desktop\Github_Repos\DWDM_Project\Diagrams\Decision_Tree.png' exists and will be overwritten
+2020-01-28 22:40:31,043 : WARN  : KNIME-Worker-48-Decision Tree To Image 2:14 :  : Node : Image Writer (Port) : 2:11 : Output file 'C:\Users\Admin\Desktop\Github_Repos\DWDM_Project\Diagrams\Decision_Tree.png' exists and will be overwritten
+2020-01-28 22:41:24,816 : WARN  : main :  : Node : Decision Tree Learner : 2:16 : Guessing target column: "Cluster".
+2020-01-28 22:41:40,305 : WARN  : main :  : Node : Decision Tree Learner : 2:16 : Class column "Cluster" not found or incompatible
+2020-01-28 22:42:46,443 : WARN  : KNIME-Worker-50-PCA 2:12 :  : Node : Image Writer (Port) : 2:11 : Output file 'C:\Users\Admin\Desktop\Github_Repos\DWDM_Project\Diagrams\Decision_Tree.png' exists and will be overwritten
+2020-01-28 22:42:46,730 : WARN  : KNIME-Worker-56-Decision Tree To Image 2:14 :  : Node : Image Writer (Port) : 2:11 : Output file 'C:\Users\Admin\Desktop\Github_Repos\DWDM_Project\Diagrams\Decision_Tree.png' exists and will be overwritten
+2020-01-28 22:43:10,817 : WARN  : main :  : Node : Image Writer (Port) : 2:11 : Output file 'C:\Users\Admin\Desktop\Github_Repos\DWDM_Project\Diagrams\Decision_Tree.png' exists and will be overwritten
+2020-01-28 22:43:16,874 : WARN  : main :  : Node : Image Writer (Port) : 2:11 : Output file 'C:\Users\Admin\Desktop\Github_Repos\DWDM_Project\Diagrams\Decision_Tree.png' exists and will be overwritten
+2020-01-28 22:43:22,437 : WARN  : KNIME-Worker-55-Decision Tree To Image 2:14 :  : Node : Image Writer (Port) : 2:11 : Output file 'C:\Users\Admin\Desktop\Github_Repos\DWDM_Project\Diagrams\Decision_Tree.png' exists and will be overwritten
+2020-01-28 22:44:00,617 : WARN  : main :  : Node : Image Writer (Port) : 2:11 : Output file 'C:\Users\Admin\Desktop\Github_Repos\DWDM_Project\Diagrams\Decision_Tree.png' exists and will be overwritten
+2020-01-28 22:44:01,704 : WARN  : main :  : Node : Image Writer (Port) : 2:11 : Output file 'C:\Users\Admin\Desktop\Github_Repos\DWDM_Project\Diagrams\Decision_Tree.png' exists and will be overwritten
+2020-01-28 22:44:05,998 : WARN  : KNIME-Worker-52-Decision Tree To Image 2:14 :  : Node : Image Writer (Port) : 2:11 : Output file 'C:\Users\Admin\Desktop\Github_Repos\DWDM_Project\Diagrams\Decision_Tree.png' exists and will be overwritten
+2020-01-28 22:45:54,333 : WARN  : KNIME-Worker-59-Line Plot 2:15 :  : Node : Line Plot : 2:15 : Only the first 2500 rows are displayed.
+2020-01-28 22:47:10,950 : WARN  : KNIME-Worker-61-Line Plot 2:15 :  : Node : Line Plot : 2:15 : Only the first 2500 rows are displayed.
+2020-01-28 22:50:36,561 : WARN  : main :  : WrappedNodeDialog : File Reader : 2:1 : failed to apply settings: With the current settings an error occurs: Too many data elements (line: 2 (0), source: 'knime://LOCAL/Visualization.csv')
+org.knime.core.node.InvalidSettingsException: With the current settings an error occurs: Too many data elements (line: 2 (0), source: 'knime://LOCAL/Visualization.csv')
+	at org.knime.base.node.io.filereader.FileReaderNodeDialog.saveSettingsTo(FileReaderNodeDialog.java:1228)
+	at org.knime.core.node.NodeDialogPane.internalSaveSettingsTo(NodeDialogPane.java:525)
+	at org.knime.core.node.NodeDialogPane$5.run(NodeDialogPane.java:762)
+	at org.knime.core.node.util.ViewUtils$3.run(ViewUtils.java:353)
+	at org.knime.core.node.util.ViewUtils$2.run(ViewUtils.java:155)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:74)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:205)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2020-01-28 22:50:41,593 : WARN  : main :  : WrappedNodeDialog : File Reader : 2:1 : failed to apply settings: With the current settings an error occurs: Too many data elements (line: 2 (0), source: 'knime://LOCAL/Visualization.csv')
+org.knime.core.node.InvalidSettingsException: With the current settings an error occurs: Too many data elements (line: 2 (0), source: 'knime://LOCAL/Visualization.csv')
+	at org.knime.base.node.io.filereader.FileReaderNodeDialog.saveSettingsTo(FileReaderNodeDialog.java:1228)
+	at org.knime.core.node.NodeDialogPane.internalSaveSettingsTo(NodeDialogPane.java:525)
+	at org.knime.core.node.NodeDialogPane$5.run(NodeDialogPane.java:762)
+	at org.knime.core.node.util.ViewUtils$3.run(ViewUtils.java:353)
+	at org.knime.core.node.util.ViewUtils$2.run(ViewUtils.java:155)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:74)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:205)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2020-01-28 22:50:52,018 : WARN  : main :  : Node : File Reader : 2:18 : No Settings available.
+2020-01-28 22:51:05,802 : WARN  : main :  : Node : File Reader : 2:19 : Missing settings. Please configure the node.
+2020-01-28 22:52:57,107 : WARN  : KNIME-Worker-64-Line Plot 2:15 :  : Node : Line Plot : 2:15 : Only the first 2500 rows are displayed.
+2020-01-28 22:53:51,029 : WARN  : KNIME-Worker-68-Line Plot 2:15 :  : Node : Line Plot : 2:15 : Only the first 2500 rows are displayed.
+2020-01-28 22:57:01,581 : WARN  : main :  : Node : Lift Chart : 2:20 : Auto-selected column day as response column.
+2020-01-28 22:57:01,582 : WARN  : main :  : Node : Lift Chart : 2:20 : Auto-selected column A1 as probability column.
+2020-01-28 22:57:01,582 : WARN  : main :  : Node : Lift Chart : 2:20 : Response label must be set.
+2020-01-28 22:58:51,880 : WARN  : KNIME-Worker-73-Line Plot 2:15 :  : Node : Line Plot : 2:15 : Only the first 2500 rows are displayed.
+2020-01-28 23:00:44,334 : WARN  : KNIME-Worker-77-Line Plot 2:15 :  : Node : Line Plot : 2:15 : Only the first 2500 rows are displayed.
+2020-01-28 23:01:37,099 : WARN  : KNIME-Worker-80-Line Plot 2:15 :  : Node : Line Plot : 2:15 : Only the first 2500 rows are displayed.
+2020-01-28 23:02:54,474 : WARN  : KNIME-Worker-82-Line Plot 2:15 :  : Node : Line Plot : 2:15 : Only the first 2500 rows are displayed.
+2020-01-28 23:03:45,144 : WARN  : KNIME-Worker-84-Line Plot 2:15 :  : Node : Line Plot : 2:15 : Only the first 2500 rows are displayed.
+2020-01-28 23:05:48,554 : WARN  : KNIME-Worker-86-Sunburst Chart 2:22 :  : Node : Sunburst Chart : 2:22 : Only the first 2500 rows are displayed.
+2020-01-28 23:06:46,619 : WARN  : KNIME-Worker-88-Line Plot 2:15 :  : Node : Line Plot : 2:15 : Only the first 2500 rows are displayed.
+2020-01-28 23:07:39,072 : WARN  : KNIME-Worker-92-Line Plot 2:15 :  : Node : Line Plot : 2:15 : Only the first 2500 rows are displayed.
+2020-01-28 23:08:13,810 : WARN  : KNIME-Worker-94-Line Plot 2:15 :  : Node : Line Plot : 2:15 : Only the first 2500 rows are displayed.
+2020-01-28 23:11:19,766 : WARN  : KNIME-Worker-96-Line Plot 2:15 :  : Node : Line Plot : 2:15 : Only the first 10000 rows are displayed.
+2020-01-28 23:16:36,909 : WARN  : main :  : Node : Linear Discriminant Analysis : 2:24 : Auto-selected column "Area" as the class column.
+2020-01-28 23:17:17,288 : ERROR : KNIME-Worker-99-Linear Discriminant Analysis 2:24 :  : Node : Linear Discriminant Analysis : 2:24 : Execute failed: The size of the smallest group must be larger than the number of predictor variables (288). Class "A21" has only 1 non-missing instance. Please reduce the number of selected predictor variables.
+org.knime.core.node.InvalidSettingsException: The size of the smallest group must be larger than the number of predictor variables (288). Class "A21" has only 1 non-missing instance. Please reduce the number of selected predictor variables.
+	at org.knime.base.node.stats.transformation.lda2.algorithm.LDA2.calcTransformationMatrix(LDA2.java:334)
+	at org.knime.base.node.stats.transformation.lda2.algorithm.LDA2.calculateTransformationMatrix(LDA2.java:311)
+	at org.knime.base.node.stats.transformation.lda2.perform.LDA2NodeModel.doExecute(LDA2NodeModel.java:46)
+	at org.knime.base.node.stats.transformation.lda2.AbstractLDANodeModel.execute(AbstractLDANodeModel.java:148)
+	at org.knime.core.node.NodeModel.executeModel(NodeModel.java:574)
+	at org.knime.core.node.Node.invokeFullyNodeModelExecute(Node.java:1229)
+	at org.knime.core.node.Node.execute(Node.java:1016)
+	at org.knime.core.node.workflow.NativeNodeContainer.performExecuteNode(NativeNodeContainer.java:557)
+	at org.knime.core.node.exec.LocalNodeExecutionJob.mainExecute(LocalNodeExecutionJob.java:95)
+	at org.knime.core.node.workflow.NodeExecutionJob.internalRun(NodeExecutionJob.java:218)
+	at org.knime.core.node.workflow.NodeExecutionJob.run(NodeExecutionJob.java:124)
+	at org.knime.core.util.ThreadUtils$RunnableWithContextImpl.runWithContext(ThreadUtils.java:334)
+	at org.knime.core.util.ThreadUtils$RunnableWithContext.run(ThreadUtils.java:210)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at org.knime.core.util.ThreadPool$MyFuture.run(ThreadPool.java:123)
+	at org.knime.core.util.ThreadPool$Worker.run(ThreadPool.java:246)
+2020-01-28 23:18:16,413 : ERROR : KNIME-Worker-100-Linear Discriminant Analysis 2:24 :  : Node : Linear Discriminant Analysis : 2:24 : Execute failed: The size of the smallest group must be larger than the number of predictor variables (5). Class "A21" has only 1 non-missing instance. Please reduce the number of selected predictor variables.
+org.knime.core.node.InvalidSettingsException: The size of the smallest group must be larger than the number of predictor variables (5). Class "A21" has only 1 non-missing instance. Please reduce the number of selected predictor variables.
+	at org.knime.base.node.stats.transformation.lda2.algorithm.LDA2.calcTransformationMatrix(LDA2.java:334)
+	at org.knime.base.node.stats.transformation.lda2.algorithm.LDA2.calculateTransformationMatrix(LDA2.java:311)
+	at org.knime.base.node.stats.transformation.lda2.perform.LDA2NodeModel.doExecute(LDA2NodeModel.java:46)
+	at org.knime.base.node.stats.transformation.lda2.AbstractLDANodeModel.execute(AbstractLDANodeModel.java:148)
+	at org.knime.core.node.NodeModel.executeModel(NodeModel.java:574)
+	at org.knime.core.node.Node.invokeFullyNodeModelExecute(Node.java:1229)
+	at org.knime.core.node.Node.execute(Node.java:1016)
+	at org.knime.core.node.workflow.NativeNodeContainer.performExecuteNode(NativeNodeContainer.java:557)
+	at org.knime.core.node.exec.LocalNodeExecutionJob.mainExecute(LocalNodeExecutionJob.java:95)
+	at org.knime.core.node.workflow.NodeExecutionJob.internalRun(NodeExecutionJob.java:218)
+	at org.knime.core.node.workflow.NodeExecutionJob.run(NodeExecutionJob.java:124)
+	at org.knime.core.util.ThreadUtils$RunnableWithContextImpl.runWithContext(ThreadUtils.java:334)
+	at org.knime.core.util.ThreadUtils$RunnableWithContext.run(ThreadUtils.java:210)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at org.knime.core.util.ThreadPool$MyFuture.run(ThreadPool.java:123)
+	at org.knime.core.util.ThreadPool$Worker.run(ThreadPool.java:246)
+2020-01-28 23:19:37,978 : ERROR : KNIME-Worker-101-Linear Discriminant Analysis 2:24 :  : Node : Linear Discriminant Analysis : 2:24 : Execute failed: The size of the smallest group must be larger than the number of predictor variables (5). Class "A21" has only 1 non-missing instance. Please reduce the number of selected predictor variables.
+org.knime.core.node.InvalidSettingsException: The size of the smallest group must be larger than the number of predictor variables (5). Class "A21" has only 1 non-missing instance. Please reduce the number of selected predictor variables.
+	at org.knime.base.node.stats.transformation.lda2.algorithm.LDA2.calcTransformationMatrix(LDA2.java:334)
+	at org.knime.base.node.stats.transformation.lda2.algorithm.LDA2.calculateTransformationMatrix(LDA2.java:311)
+	at org.knime.base.node.stats.transformation.lda2.perform.LDA2NodeModel.doExecute(LDA2NodeModel.java:46)
+	at org.knime.base.node.stats.transformation.lda2.AbstractLDANodeModel.execute(AbstractLDANodeModel.java:148)
+	at org.knime.core.node.NodeModel.executeModel(NodeModel.java:574)
+	at org.knime.core.node.Node.invokeFullyNodeModelExecute(Node.java:1229)
+	at org.knime.core.node.Node.execute(Node.java:1016)
+	at org.knime.core.node.workflow.NativeNodeContainer.performExecuteNode(NativeNodeContainer.java:557)
+	at org.knime.core.node.exec.LocalNodeExecutionJob.mainExecute(LocalNodeExecutionJob.java:95)
+	at org.knime.core.node.workflow.NodeExecutionJob.internalRun(NodeExecutionJob.java:218)
+	at org.knime.core.node.workflow.NodeExecutionJob.run(NodeExecutionJob.java:124)
+	at org.knime.core.util.ThreadUtils$RunnableWithContextImpl.runWithContext(ThreadUtils.java:334)
+	at org.knime.core.util.ThreadUtils$RunnableWithContext.run(ThreadUtils.java:210)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at org.knime.core.util.ThreadPool$MyFuture.run(ThreadPool.java:123)
+	at org.knime.core.util.ThreadPool$Worker.run(ThreadPool.java:246)
+2020-01-28 23:20:08,915 : WARN  : main :  : Node : Table Reader : 2:25 : No source location provided! Please enter a valid location.
+2020-01-28 23:20:25,202 : WARN  : main :  : Node : Table Writer : 2:25 : No destination location provided! Please enter a valid location.
+2020-01-28 23:22:57,769 : ERROR : KNIME-Worker-102-Linear Discriminant Analysis 2:24 :  : Node : Linear Discriminant Analysis : 2:24 : Execute failed: The size of the smallest group must be larger than the number of predictor variables (5). Class "cluster_0" has only 3 non-missing instances. Please reduce the number of selected predictor variables.
+org.knime.core.node.InvalidSettingsException: The size of the smallest group must be larger than the number of predictor variables (5). Class "cluster_0" has only 3 non-missing instances. Please reduce the number of selected predictor variables.
+	at org.knime.base.node.stats.transformation.lda2.algorithm.LDA2.calcTransformationMatrix(LDA2.java:334)
+	at org.knime.base.node.stats.transformation.lda2.algorithm.LDA2.calculateTransformationMatrix(LDA2.java:311)
+	at org.knime.base.node.stats.transformation.lda2.perform.LDA2NodeModel.doExecute(LDA2NodeModel.java:46)
+	at org.knime.base.node.stats.transformation.lda2.AbstractLDANodeModel.execute(AbstractLDANodeModel.java:148)
+	at org.knime.core.node.NodeModel.executeModel(NodeModel.java:574)
+	at org.knime.core.node.Node.invokeFullyNodeModelExecute(Node.java:1229)
+	at org.knime.core.node.Node.execute(Node.java:1016)
+	at org.knime.core.node.workflow.NativeNodeContainer.performExecuteNode(NativeNodeContainer.java:557)
+	at org.knime.core.node.exec.LocalNodeExecutionJob.mainExecute(LocalNodeExecutionJob.java:95)
+	at org.knime.core.node.workflow.NodeExecutionJob.internalRun(NodeExecutionJob.java:218)
+	at org.knime.core.node.workflow.NodeExecutionJob.run(NodeExecutionJob.java:124)
+	at org.knime.core.util.ThreadUtils$RunnableWithContextImpl.runWithContext(ThreadUtils.java:334)
+	at org.knime.core.util.ThreadUtils$RunnableWithContext.run(ThreadUtils.java:210)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at org.knime.core.util.ThreadPool$MyFuture.run(ThreadPool.java:123)
+	at org.knime.core.util.ThreadPool$Worker.run(ThreadPool.java:246)
+2020-01-28 23:23:38,404 : ERROR : KNIME-Worker-103-Linear Discriminant Analysis 2:24 :  : Node : Linear Discriminant Analysis : 2:24 : Execute failed: The size of the smallest group must be larger than the number of predictor variables (5). Class "cluster_0" has only 3 non-missing instances. Please reduce the number of selected predictor variables.
+org.knime.core.node.InvalidSettingsException: The size of the smallest group must be larger than the number of predictor variables (5). Class "cluster_0" has only 3 non-missing instances. Please reduce the number of selected predictor variables.
+	at org.knime.base.node.stats.transformation.lda2.algorithm.LDA2.calcTransformationMatrix(LDA2.java:334)
+	at org.knime.base.node.stats.transformation.lda2.algorithm.LDA2.calculateTransformationMatrix(LDA2.java:311)
+	at org.knime.base.node.stats.transformation.lda2.perform.LDA2NodeModel.doExecute(LDA2NodeModel.java:46)
+	at org.knime.base.node.stats.transformation.lda2.AbstractLDANodeModel.execute(AbstractLDANodeModel.java:148)
+	at org.knime.core.node.NodeModel.executeModel(NodeModel.java:574)
+	at org.knime.core.node.Node.invokeFullyNodeModelExecute(Node.java:1229)
+	at org.knime.core.node.Node.execute(Node.java:1016)
+	at org.knime.core.node.workflow.NativeNodeContainer.performExecuteNode(NativeNodeContainer.java:557)
+	at org.knime.core.node.exec.LocalNodeExecutionJob.mainExecute(LocalNodeExecutionJob.java:95)
+	at org.knime.core.node.workflow.NodeExecutionJob.internalRun(NodeExecutionJob.java:218)
+	at org.knime.core.node.workflow.NodeExecutionJob.run(NodeExecutionJob.java:124)
+	at org.knime.core.util.ThreadUtils$RunnableWithContextImpl.runWithContext(ThreadUtils.java:334)
+	at org.knime.core.util.ThreadUtils$RunnableWithContext.run(ThreadUtils.java:210)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at org.knime.core.util.ThreadPool$MyFuture.run(ThreadPool.java:123)
+	at org.knime.core.util.ThreadPool$Worker.run(ThreadPool.java:246)
