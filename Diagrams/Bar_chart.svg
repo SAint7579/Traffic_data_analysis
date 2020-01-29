@@ -27,14 +27,14 @@ rect.nv-bar.positive { cursor: pointer; }</style><text x="20" y="30" id="title"
         Bar Chart
     </text>
     <g class="nvd3 nv-wrap nv-multiBarWithLegend"
-       transform="translate(48.703125,60)">
+       transform="translate(28.6875,60)">
         <g>
             <g class="nv-x nv-axis nvd3-svg knime-axis knime-x"
                transform="translate(0,511)">
                 <g class="nvd3 nv-wrap nv-axis knime-axis">
                     <g>
                         <g class="tick zero knime-tick" style="opacity: 1;"
-                           transform="translate(58.1990536971831,0)">
+                           transform="translate(59.74955985915493,0)">
                             <line y2="-511" style="opacity: 1;" x2="0"
                                   class="knime-tick-line"/>
                             <text x="0" dy=".71em" y="15"
@@ -48,7 +48,7 @@ rect.nv-bar.positive { cursor: pointer; }</style><text x="20" y="30" id="title"
                             </text>
                         </g>
                         <g class="tick zero knime-tick" style="opacity: 1;"
-                           transform="translate(164.01551496478874,0)">
+                           transform="translate(168.3851232394366,0)">
                             <line y2="-511" style="opacity: 1;" x2="0"
                                   class="knime-tick-line"/>
                             <text x="0" dy=".71em" y="15"
@@ -62,7 +62,7 @@ rect.nv-bar.positive { cursor: pointer; }</style><text x="20" y="30" id="title"
                             </text>
                         </g>
                         <g class="tick zero knime-tick" style="opacity: 1;"
-                           transform="translate(269.83197623239437,0)">
+                           transform="translate(277.0206866197183,0)">
                             <line y2="-511" style="opacity: 1;" x2="0"
                                   class="knime-tick-line"/>
                             <text x="0" dy=".71em" y="15"
@@ -76,7 +76,7 @@ rect.nv-bar.positive { cursor: pointer; }</style><text x="20" y="30" id="title"
                             </text>
                         </g>
                         <g class="tick zero knime-tick" style="opacity: 1;"
-                           transform="translate(375.6484375,0)">
+                           transform="translate(385.65625,0)">
                             <line y2="-511" style="opacity: 1;" x2="0"
                                   class="knime-tick-line"/>
                             <text x="0" dy=".71em" y="15"
@@ -90,7 +90,7 @@ rect.nv-bar.positive { cursor: pointer; }</style><text x="20" y="30" id="title"
                             </text>
                         </g>
                         <g class="tick zero knime-tick" style="opacity: 1;"
-                           transform="translate(481.46489876760563,0)">
+                           transform="translate(494.29181338028167,0)">
                             <line y2="-511" style="opacity: 1;" x2="0"
                                   class="knime-tick-line"/>
                             <text x="0" dy=".71em" y="15"
@@ -104,7 +104,7 @@ rect.nv-bar.positive { cursor: pointer; }</style><text x="20" y="30" id="title"
                             </text>
                         </g>
                         <g class="tick zero knime-tick" style="opacity: 1;"
-                           transform="translate(587.2813600352113,0)">
+                           transform="translate(602.9273767605633,0)">
                             <line y2="-511" style="opacity: 1;" x2="0"
                                   class="knime-tick-line"/>
                             <text x="0" dy=".71em" y="15"
@@ -118,7 +118,7 @@ rect.nv-bar.positive { cursor: pointer; }</style><text x="20" y="30" id="title"
                             </text>
                         </g>
                         <g class="tick zero knime-tick" style="opacity: 1;"
-                           transform="translate(693.0978213028169,0)">
+                           transform="translate(711.5629401408451,0)">
                             <line y2="-511" style="opacity: 1;" x2="0"
                                   class="knime-tick-line"/>
                             <text x="0" dy=".71em" y="15"
@@ -132,8 +132,8 @@ rect.nv-bar.positive { cursor: pointer; }</style><text x="20" y="30" id="title"
                             </text>
                         </g>
                         <path class="domain knime-axis-line"
-                              d="M0,0V0H751.296875V0"/>
-                        <text x="375.6484375" y="40"
+                              d="M0,0V0H771.3125V0"/>
+                        <text x="385.65625" y="40"
                               style="opacity: 1; pointer-events: all;"
                               class="nv-axislabel knime-axis-label"
                               text-anchor="middle">
@@ -147,7 +147,7 @@ rect.nv-bar.positive { cursor: pointer; }</style><text x="20" y="30" id="title"
                     <g>
                         <g class="tick zero knime-tick" style="opacity: 1;"
                            transform="translate(0,511)">
-                            <line class="knime-tick-line" y2="0" x2="751.296875"/>
+                            <line class="knime-tick-line" y2="0" x2="771.3125"/>
                             <text x="-3" dy=".32em" y="0"
                                   style="text-anchor: end; pointer-events: all;"
                                   class="knime-tick-label" opacity="0">
@@ -155,34 +155,34 @@ rect.nv-bar.positive { cursor: pointer; }</style><text x="20" y="30" id="title"
                             </text>
                         </g>
                         <g class="tick knime-tick" style="opacity: 1;"
-                           transform="translate(0,349.34485376694454)">
-                            <line class="knime-tick-line" y2="0" x2="751.296875"/>
+                           transform="translate(0,359.8165680473373)">
+                            <line class="knime-tick-line" y2="0" x2="771.3125"/>
                             <text x="-3" dy=".32em" y="0"
                                   style="text-anchor: end; pointer-events: all;"
                                   class="knime-tick-label" opacity="1">
-                                20000
+                                5
                             </text>
                         </g>
                         <g class="tick knime-tick" style="opacity: 1;"
-                           transform="translate(0,187.68970753388908)">
-                            <line class="knime-tick-line" y2="0" x2="751.296875"/>
+                           transform="translate(0,208.63313609467454)">
+                            <line class="knime-tick-line" y2="0" x2="771.3125"/>
                             <text x="-3" dy=".32em" y="0"
                                   style="text-anchor: end; pointer-events: all;"
                                   class="knime-tick-label" opacity="1">
-                                40000
+                                10
                             </text>
                         </g>
                         <g class="tick knime-tick" style="opacity: 1;"
-                           transform="translate(0,26.034561300833566)">
-                            <line class="knime-tick-line" y2="0" x2="751.296875"/>
+                           transform="translate(0,57.44970414201179)">
+                            <line class="knime-tick-line" y2="0" x2="771.3125"/>
                             <text x="-3" dy=".32em" y="0"
                                   style="text-anchor: end; pointer-events: all;"
                                   class="knime-tick-label" opacity="1">
-                                60000
+                                15
                             </text>
                         </g>
                         <path class="domain knime-axis-line" d="M0,0H0V511H0"/>
-                        <text x="-255.5" y="-73.703125"
+                        <text x="-255.5" y="-53.6875"
                               style="text-anchor: middle; pointer-events: all;"
                               class="nv-axislabel knime-axis-label"
                               transform="rotate(-90)">
@@ -202,7 +202,7 @@ rect.nv-bar.positive { cursor: pointer; }</style><text x="20" y="30" id="title"
                         <text x="-3" dy=".32em" y="0"
                               style="opacity: 1; pointer-events: all;"
                               class="knime-tick-label" text-anchor="end">
-                            63221
+                            16.9
                         </text>
                     </g>
                 </g>
@@ -210,262 +210,263 @@ rect.nv-bar.positive { cursor: pointer; }</style><text x="20" y="30" id="title"
             <g class="nv-barsWrap nvd3-svg">
                 <g class="nvd3 nv-wrap nv-multibar" transform="translate(0,0)">
                     <defs>
-                        <clipPath id="nv-edge-clip-1884">
-                            <rect width="751.296875" height="511"/>
+                        <clipPath id="nv-edge-clip-2020">
+                            <rect width="771.3125" height="511"/>
                         </clipPath>
                     </defs>
-                    <g clip-path="url(#nv-edge-clip-1884)">
+                    <g clip-path="url(#nv-edge-clip-2020)">
                         <g class="nv-groups">
                             <g class="nv-group nv-series-0"
                                style="stroke-opacity: 1; fill-opacity: 0.75; fill: rgb(31, 119, 180); stroke: rgb(31, 119, 180);">
-                                <rect x="0" y="48.084323247022354"
-                                      transform="translate(10.581646126760564,0)"
-                                      width="19.046963028169014"
+                                <rect x="0" y="81.50706771860713"
+                                      transform="translate(10.863556338028168,0)"
+                                      width="19.554401408450705"
                                       style="fill: rgb(31, 119, 180); stroke: rgb(31, 119, 180);"
                                       class="nv-bar positive"
-                                      height="462.9156767529777"/>
-                                <rect x="0" y="23.965375429050468"
-                                      transform="translate(116.39810739436619,0)"
-                                      width="19.046963028169014"
+                                      height="429.4929322813929"/>
+                                <rect x="0" y="24.370252364334878"
+                                      transform="translate(119.49911971830986,0)"
+                                      width="19.554401408450705"
                                       style="fill: rgb(31, 119, 180); stroke: rgb(31, 119, 180);"
                                       class="nv-bar positive"
-                                      height="487.0346245709495"/>
-                                <rect x="0" y="0"
-                                      transform="translate(222.21456866197184,0)"
-                                      width="19.046963028169014"
-                                      style="fill: rgb(31, 119, 180); stroke: rgb(31, 119, 180);"
-                                      class="nv-bar positive" height="511"/>
-                                <rect x="0" y="88.06972366776861"
-                                      transform="translate(328.03102992957747,0)"
-                                      width="19.046963028169014"
+                                      height="486.6297476356651"/>
+                                <rect x="0" y="0.42479960046661214"
+                                      transform="translate(228.13468309859152,0)"
+                                      width="19.554401408450705"
                                       style="fill: rgb(31, 119, 180); stroke: rgb(31, 119, 180);"
                                       class="nv-bar positive"
-                                      height="422.9302763322314"/>
-                                <rect x="0" y="109.18188576580567"
-                                      transform="translate(433.8474911971831,0)"
-                                      width="19.046963028169014"
+                                      height="510.5752003995334"/>
+                                <rect x="0" y="88.42130999342567"
+                                      transform="translate(336.7702464788732,0)"
+                                      width="19.554401408450705"
                                       style="fill: rgb(31, 119, 180); stroke: rgb(31, 119, 180);"
                                       class="nv-bar positive"
-                                      height="401.81811423419435"/>
-                                <rect x="0" y="94.97239841192007"
-                                      transform="translate(539.6639524647887,0)"
-                                      width="19.046963028169014"
+                                      height="422.57869000657433"/>
+                                <rect x="0" y="109.51592133211862"
+                                      transform="translate(445.4058098591549,0)"
+                                      width="19.554401408450705"
                                       style="fill: rgb(31, 119, 180); stroke: rgb(31, 119, 180);"
                                       class="nv-bar positive"
-                                      height="416.02760158807996"/>
-                                <rect x="0" y="38.54666961927209"
-                                      transform="translate(645.4804137323944,0)"
-                                      width="19.046963028169014"
+                                      height="401.48407866788136"/>
+                                <rect x="0" y="95.3182464724631"
+                                      transform="translate(554.0413732394366,0)"
+                                      width="19.554401408450705"
                                       style="fill: rgb(31, 119, 180); stroke: rgb(31, 119, 180);"
                                       class="nv-bar positive"
-                                      height="472.4533303807279"/>
+                                      height="415.6817535275369"/>
+                                <rect x="0" y="38.93942497344806"
+                                      transform="translate(662.6769366197183,0)"
+                                      width="19.554401408450705"
+                                      style="fill: rgb(31, 119, 180); stroke: rgb(31, 119, 180);"
+                                      class="nv-bar positive"
+                                      height="472.06057502655193"/>
                             </g>
                             <g class="nv-group nv-series-1"
                                style="stroke-opacity: 1; fill-opacity: 0.75; fill: rgb(255, 127, 14); stroke: rgb(255, 127, 14);">
-                                <rect x="19.046963028169014"
-                                      y="372.2028914442986"
-                                      transform="translate(10.581646126760564,0)"
-                                      width="19.046963028169014"
+                                <rect x="19.554401408450705"
+                                      y="382.22411242603596"
+                                      transform="translate(10.863556338028168,0)"
+                                      width="19.554401408450705"
                                       style="fill: rgb(255, 127, 14); stroke: rgb(255, 127, 14);"
                                       class="nv-bar positive"
-                                      height="138.7971085557014"/>
-                                <rect x="19.046963028169014"
-                                      y="415.23549137153793"
-                                      transform="translate(116.39810739436619,0)"
-                                      width="19.046963028169014"
+                                      height="128.77588757396404"/>
+                                <rect x="19.554401408450705"
+                                      y="415.31510140090035"
+                                      transform="translate(119.49911971830986,0)"
+                                      width="19.554401408450705"
                                       style="fill: rgb(255, 127, 14); stroke: rgb(255, 127, 14);"
                                       class="nv-bar positive"
-                                      height="95.76450862846207"/>
-                                <rect x="19.046963028169014"
-                                      y="384.7796618212303"
-                                      transform="translate(222.21456866197184,0)"
-                                      width="19.046963028169014"
+                                      height="95.68489859909965"/>
+                                <rect x="19.554401408450705"
+                                      y="384.88459009760794"
+                                      transform="translate(228.13468309859152,0)"
+                                      width="19.554401408450705"
                                       style="fill: rgb(255, 127, 14); stroke: rgb(255, 127, 14);"
                                       class="nv-bar positive"
-                                      height="126.22033817876968"/>
-                                <rect x="19.046963028169014"
-                                      y="406.19896869711016"
-                                      transform="translate(328.03102992957747,0)"
-                                      width="19.046963028169014"
+                                      height="126.11540990239206"/>
+                                <rect x="19.554401408450705"
+                                      y="406.286090881505"
+                                      transform="translate(336.7702464788732,0)"
+                                      width="19.554401408450705"
                                       style="fill: rgb(255, 127, 14); stroke: rgb(255, 127, 14);"
                                       class="nv-bar positive"
-                                      height="104.80103130288984"/>
-                                <rect x="19.046963028169014"
-                                      y="365.9630027997026"
-                                      transform="translate(433.8474911971831,0)"
-                                      width="19.046963028169014"
+                                      height="104.713909118495"/>
+                                <rect x="19.554401408450705"
+                                      y="366.0835735599055"
+                                      transform="translate(445.4058098591549,0)"
+                                      width="19.554401408450705"
                                       style="fill: rgb(255, 127, 14); stroke: rgb(255, 127, 14);"
                                       class="nv-bar positive"
-                                      height="145.03699720029738"/>
-                                <rect x="19.046963028169014"
-                                      y="378.6690972936208"
-                                      transform="translate(539.6639524647887,0)"
-                                      width="19.046963028169014"
+                                      height="144.91642644009448"/>
+                                <rect x="19.554401408450705"
+                                      y="378.77910534567405"
+                                      transform="translate(554.0413732394366,0)"
+                                      width="19.554401408450705"
                                       style="fill: rgb(255, 127, 14); stroke: rgb(255, 127, 14);"
                                       class="nv-bar positive"
-                                      height="132.33090270637922"/>
-                                <rect x="19.046963028169014"
-                                      y="351.8666740481802"
-                                      transform="translate(645.4804137323944,0)"
-                                      width="19.046963028169014"
+                                      height="132.22089465432595"/>
+                                <rect x="19.554401408450705"
+                                      y="351.9989632326916"
+                                      transform="translate(662.6769366197183,0)"
+                                      width="19.554401408450705"
                                       style="fill: rgb(255, 127, 14); stroke: rgb(255, 127, 14);"
                                       class="nv-bar positive"
-                                      height="159.1333259518198"/>
+                                      height="159.0010367673084"/>
                             </g>
                             <g class="nv-group nv-series-2"
                                style="stroke-opacity: 1; fill-opacity: 0.75; fill: rgb(44, 160, 44); stroke: rgb(44, 160, 44);">
-                                <rect x="38.09392605633803"
-                                      y="198.64992644849022"
-                                      transform="translate(10.581646126760564,0)"
-                                      width="19.046963028169014"
+                                <rect x="39.10880281690141"
+                                      y="221.2017587113754"
+                                      transform="translate(10.863556338028168,0)"
+                                      width="19.554401408450705"
                                       style="fill: rgb(44, 160, 44); stroke: rgb(44, 160, 44);"
                                       class="nv-bar positive"
-                                      height="312.3500735515098"/>
-                                <rect x="38.09392605633803"
-                                      y="262.3501368216257"
-                                      transform="translate(116.39810739436619,0)"
-                                      width="19.046963028169014"
+                                      height="289.7982412886246"/>
+                                <rect x="39.10880281690141"
+                                      y="262.55684203206437"
+                                      transform="translate(119.49911971830986,0)"
+                                      width="19.554401408450705"
                                       style="fill: rgb(44, 160, 44); stroke: rgb(44, 160, 44);"
                                       class="nv-bar positive"
-                                      height="248.6498631783743"/>
-                                <rect x="38.09392605633803"
-                                      y="221.87168820486863"
-                                      transform="translate(222.21456866197184,0)"
-                                      width="19.046963028169014"
+                                      height="248.44315796793563"/>
+                                <rect x="39.10880281690141"
+                                      y="222.11204356951234"
+                                      transform="translate(228.13468309859152,0)"
+                                      width="19.554401408450705"
                                       style="fill: rgb(44, 160, 44); stroke: rgb(44, 160, 44);"
                                       class="nv-bar positive"
-                                      height="289.12831179513137"/>
-                                <rect x="38.09392605633803"
-                                      y="273.9084797772892"
-                                      transform="translate(328.03102992957747,0)"
-                                      width="19.046963028169014"
+                                      height="288.88795643048763"/>
+                                <rect x="39.10880281690141" y="274.105576417337"
+                                      transform="translate(336.7702464788732,0)"
+                                      width="19.554401408450705"
                                       style="fill: rgb(44, 160, 44); stroke: rgb(44, 160, 44);"
                                       class="nv-bar positive"
-                                      height="237.0915202227108"/>
-                                <rect x="38.09392605633803"
-                                      y="295.3197038958574"
-                                      transform="translate(433.8474911971831,0)"
-                                      width="19.046963028169014"
+                                      height="236.89442358266302"/>
+                                <rect x="39.10880281690141"
+                                      y="295.4990011632023"
+                                      transform="translate(445.4058098591549,0)"
+                                      width="19.554401408450705"
                                       style="fill: rgb(44, 160, 44); stroke: rgb(44, 160, 44);"
                                       class="nv-bar positive"
-                                      height="215.6802961041426"/>
-                                <rect x="38.09392605633803"
-                                      y="277.4325619651698"
-                                      transform="translate(539.6639524647887,0)"
-                                      width="19.046963028169014"
+                                      height="215.5009988367977"/>
+                                <rect x="39.10880281690141"
+                                      y="277.6267289991404"
+                                      transform="translate(554.0413732394366,0)"
+                                      width="19.554401408450705"
                                       style="fill: rgb(44, 160, 44); stroke: rgb(44, 160, 44);"
                                       class="nv-bar positive"
-                                      height="233.56743803483022"/>
-                                <rect x="38.09392605633803"
-                                      y="222.05759162303661"
-                                      transform="translate(645.4804137323944,0)"
-                                      width="19.046963028169014"
+                                      height="233.37327100085957"/>
+                                <rect x="39.10880281690141"
+                                      y="222.2977924442416"
+                                      transform="translate(662.6769366197183,0)"
+                                      width="19.554401408450705"
                                       style="fill: rgb(44, 160, 44); stroke: rgb(44, 160, 44);"
                                       class="nv-bar positive"
-                                      height="288.9424083769634"/>
+                                      height="288.7022075557584"/>
                             </g>
                             <g class="nv-group nv-series-3"
                                style="stroke-opacity: 1; fill-opacity: 0.75; fill: rgb(214, 39, 40); stroke: rgb(214, 39, 40);">
-                                <rect x="57.140889084507045"
-                                      y="172.5345375745401"
-                                      transform="translate(10.581646126760564,0)"
-                                      width="19.046963028169014"
+                                <rect x="58.66320422535212"
+                                      y="196.9719140368176"
+                                      transform="translate(10.863556338028168,0)"
+                                      width="19.554401408450705"
                                       style="fill: rgb(214, 39, 40); stroke: rgb(214, 39, 40);"
                                       class="nv-bar positive"
-                                      height="338.4654624254599"/>
-                                <rect x="57.140889084507045"
-                                      y="217.19985447873333"
-                                      transform="translate(116.39810739436619,0)"
-                                      width="19.046963028169014"
+                                      height="314.02808596318243"/>
+                                <rect x="58.66320422535212"
+                                      y="217.44409358721575"
+                                      transform="translate(119.49911971830986,0)"
+                                      width="19.554401408450705"
                                       style="fill: rgb(214, 39, 40); stroke: rgb(214, 39, 40);"
                                       class="nv-bar positive"
-                                      height="293.8001455212667"/>
-                                <rect x="57.140889084507045"
-                                      y="185.24063206845827"
-                                      transform="translate(222.21456866197184,0)"
-                                      width="19.046963028169014"
+                                      height="293.5559064127842"/>
+                                <rect x="58.66320422535212"
+                                      y="185.51143921003356"
+                                      transform="translate(228.13468309859152,0)"
+                                      width="19.554401408450705"
                                       style="fill: rgb(214, 39, 40); stroke: rgb(214, 39, 40);"
                                       class="nv-bar positive"
-                                      height="325.75936793154176"/>
-                                <rect x="57.140889084507045"
-                                      y="235.60429287736673"
-                                      transform="translate(328.03102992957747,0)"
-                                      width="19.046963028169014"
+                                      height="325.4885607899664"/>
+                                <rect x="58.66320422535212"
+                                      y="235.8332321853029"
+                                      transform="translate(336.7702464788732,0)"
+                                      width="19.554401408450705"
                                       style="fill: rgb(214, 39, 40); stroke: rgb(214, 39, 40);"
                                       class="nv-bar positive"
-                                      height="275.39570712263327"/>
-                                <rect x="57.140889084507045"
-                                      y="244.02652599610892"
-                                      transform="translate(433.8474911971831,0)"
-                                      width="19.046963028169014"
+                                      height="275.1667678146971"/>
+                                <rect x="58.66320422535212"
+                                      y="244.24846381429285"
+                                      transform="translate(445.4058098591549,0)"
+                                      width="19.554401408450705"
                                       style="fill: rgb(214, 39, 40); stroke: rgb(214, 39, 40);"
                                       class="nv-bar positive"
-                                      height="266.97347400389106"/>
-                                <rect x="57.140889084507045"
-                                      y="246.50793249078632"
-                                      transform="translate(539.6639524647887,0)"
-                                      width="19.046963028169014"
+                                      height="266.75153618570715"/>
+                                <rect x="58.66320422535212"
+                                      y="246.72780749001146"
+                                      transform="translate(554.0413732394366,0)"
+                                      width="19.554401408450705"
                                       style="fill: rgb(214, 39, 40); stroke: rgb(214, 39, 40);"
                                       class="nv-bar positive"
-                                      height="264.4920675092137"/>
-                                <rect x="57.140889084507045"
-                                      y="177.80449534173775"
-                                      transform="translate(645.4804137323944,0)"
-                                      width="19.046963028169014"
+                                      height="264.27219250998854"/>
+                                <rect x="58.66320422535212"
+                                      y="178.08148422090747"
+                                      transform="translate(662.6769366197183,0)"
+                                      width="19.554401408450705"
                                       style="fill: rgb(214, 39, 40); stroke: rgb(214, 39, 40);"
                                       class="nv-bar positive"
-                                      height="333.1955046582623"/>
+                                      height="332.91851577909256"/>
                             </g>
                             <g class="nv-group nv-series-4"
                                style="stroke-opacity: 1; fill-opacity: 0.75; fill: rgb(148, 103, 189); stroke: rgb(148, 103, 189);">
-                                <rect x="76.18785211267605"
-                                      y="54.69601872795431"
-                                      transform="translate(10.581646126760564,0)"
-                                      width="19.046963028169014"
+                                <rect x="78.21760563380282"
+                                      y="87.64139546351045"
+                                      transform="translate(10.863556338028168,0)"
+                                      width="19.554401408450705"
                                       style="fill: rgb(148, 103, 189); stroke: rgb(148, 103, 189);"
                                       class="nv-bar positive"
-                                      height="456.3039812720457"/>
-                                <rect x="76.18785211267605"
-                                      y="118.08100156593537"
-                                      transform="translate(116.39810739436619,0)"
-                                      width="19.046963028169014"
+                                      height="423.35860453648957"/>
+                                <rect x="78.21760563380282"
+                                      y="118.40763920497788"
+                                      transform="translate(119.49911971830986,0)"
+                                      width="19.554401408450705"
                                       style="fill: rgb(148, 103, 189); stroke: rgb(148, 103, 189);"
                                       class="nv-bar positive"
-                                      height="392.91899843406463"/>
-                                <rect x="76.18785211267605" y="65.7693962449186"
-                                      transform="translate(222.21456866197184,0)"
-                                      width="19.046963028169014"
+                                      height="392.5923607950221"/>
+                                <rect x="78.21760563380282"
+                                      y="66.13952106407687"
+                                      transform="translate(228.13468309859152,0)"
+                                      width="19.554401408450705"
                                       style="fill: rgb(148, 103, 189); stroke: rgb(148, 103, 189);"
                                       class="nv-bar positive"
-                                      height="445.2306037550814"/>
-                                <rect x="76.18785211267605"
-                                      y="121.72632511349077"
-                                      transform="translate(328.03102992957747,0)"
-                                      width="19.046963028169014"
+                                      height="444.86047893592314"/>
+                                <rect x="78.21760563380282"
+                                      y="122.04993235725449"
+                                      transform="translate(336.7702464788732,0)"
+                                      width="19.554401408450705"
                                       style="fill: rgb(148, 103, 189); stroke: rgb(148, 103, 189);"
                                       class="nv-bar positive"
-                                      height="389.27367488650924"/>
-                                <rect x="76.18785211267605"
-                                      y="165.13881463437778"
-                                      transform="translate(433.8474911971831,0)"
-                                      width="19.046963028169014"
+                                      height="388.9500676427455"/>
+                                <rect x="78.21760563380282"
+                                      y="165.42633262529696"
+                                      transform="translate(445.4058098591549,0)"
+                                      width="19.554401408450705"
                                       style="fill: rgb(148, 103, 189); stroke: rgb(148, 103, 189);"
                                       class="nv-bar positive"
-                                      height="345.8611853656222"/>
-                                <rect x="76.18785211267605"
-                                      y="148.81972762215085"
-                                      transform="translate(539.6639524647887,0)"
-                                      width="19.046963028169014"
+                                      height="345.57366737470306"/>
+                                <rect x="78.21760563380282"
+                                      y="149.1208118393769"
+                                      transform="translate(554.0413732394366,0)"
+                                      width="19.554401408450705"
                                       style="fill: rgb(148, 103, 189); stroke: rgb(148, 103, 189);"
                                       class="nv-bar positive"
-                                      height="362.1802723778492"/>
-                                <rect x="76.18785211267605"
-                                      y="65.05811360149316"
-                                      transform="translate(645.4804137323944,0)"
-                                      width="19.046963028169014"
+                                      height="361.87918816062313"/>
+                                <rect x="78.21760563380282"
+                                      y="65.42882971729132"
+                                      transform="translate(662.6769366197183,0)"
+                                      width="19.554401408450705"
                                       style="fill: rgb(148, 103, 189); stroke: rgb(148, 103, 189);"
                                       class="nv-bar positive"
-                                      height="445.9418863985068"/>
+                                      height="445.5711702827087"/>
                             </g>
                         </g>
                     </g>
@@ -474,7 +475,7 @@ rect.nv-bar.positive { cursor: pointer; }</style><text x="20" y="30" id="title"
             <g class="nv-legendWrap nvd3-svg knime-legend"
                transform="translate(0,-60)">
                 <g class="nvd3 nv-legend" transform="translate(0,20)">
-                    <g transform="translate(517.908203125,20)">
+                    <g transform="translate(537.923828125,20)">
                         <g class="nv-series" transform="translate(0,5)">
                             <circle class="nv-legend-symbol knime-legend-symbol"
                                     r="5"

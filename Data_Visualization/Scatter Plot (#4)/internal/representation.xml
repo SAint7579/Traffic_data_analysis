@@ -29,7 +29,7 @@
 <entry key="gridColor" type="xstring" value="rgba(230,230,230,1.0)"/>
 <entry key="hasDataset" type="xboolean" value="true"/>
 <config key="dataset">
-<entry key="tableID" type="xstring" value="e2a6c677-7077-4bad-9969-6947424e6692"/>
+<entry key="tableID" type="xstring" value="7ebffac1-2c47-4fbb-a405-2ca6b2f22f9e"/>
 <config key="columnKeys">
 <entry key="array-size" type="xint" value="9"/>
 <entry key="0" type="xstring" value="Area"/>
@@ -239,8 +239,8 @@
 <entry key="4" type="xstring" value="-22.51643537335207"/>
 <entry key="5" type="xstring" value="35.48080270675189"/>
 <entry key="6" type="xstring" value="0.0"/>
-<entry key="7" type="xstring" value="30.387876593921973"/>
-<entry key="8" type="xstring" value="-11.002639676391675"/>
+<entry key="7" type="xstring" value="-242.9343870770071"/>
+<entry key="8" type="xstring" value="27.870508416504435"/>
 </config>
 <entry key="numProperties" type="xint" value="1"/>
 <config key="property_0">
@@ -259,8 +259,8 @@
 <entry key="4" type="xstring" value="1.8564247082251595"/>
 <entry key="5" type="xstring" value="14.515630663303666"/>
 <entry key="6" type="xstring" value="0.0"/>
-<entry key="7" type="xstring" value="4.840975099218404"/>
-<entry key="8" type="xstring" value="-58.31413184416154"/>
+<entry key="7" type="xstring" value="-387.6571492388084"/>
+<entry key="8" type="xstring" value="-2.6652501203494268"/>
 </config>
 <entry key="numProperties" type="xint" value="1"/>
 <config key="property_0">
@@ -279,8 +279,8 @@
 <entry key="4" type="xstring" value="3.353827317017167"/>
 <entry key="5" type="xstring" value="2.955162242003256"/>
 <entry key="6" type="xstring" value="0.0"/>
-<entry key="7" type="xstring" value="-5.482537170313236"/>
-<entry key="8" type="xstring" value="-58.9084951060957"/>
+<entry key="7" type="xstring" value="-292.3909115103136"/>
+<entry key="8" type="xstring" value="-12.157035068207643"/>
 </config>
 <entry key="numProperties" type="xint" value="1"/>
 <config key="property_0">
@@ -299,8 +299,8 @@
 <entry key="4" type="xstring" value="-4.484351974342696"/>
 <entry key="5" type="xstring" value="11.067642301268064"/>
 <entry key="6" type="xstring" value="0.0"/>
-<entry key="7" type="xstring" value="-20.88015993114838"/>
-<entry key="8" type="xstring" value="1.0318353632328776"/>
+<entry key="7" type="xstring" value="-236.02592805634956"/>
+<entry key="8" type="xstring" value="-24.75608841604967"/>
 </config>
 <entry key="numProperties" type="xint" value="1"/>
 <config key="property_0">
@@ -319,8 +319,8 @@
 <entry key="4" type="xstring" value="-3.85682563685791"/>
 <entry key="5" type="xstring" value="0.05435821189717838"/>
 <entry key="6" type="xstring" value="0.0"/>
-<entry key="7" type="xstring" value="-4.3050010477752245"/>
-<entry key="8" type="xstring" value="-88.0166207734308"/>
+<entry key="7" type="xstring" value="-234.3017948028862"/>
+<entry key="8" type="xstring" value="-11.454377703201846"/>
 </config>
 <entry key="numProperties" type="xint" value="1"/>
 <config key="property_0">
@@ -339,8 +339,8 @@
 <entry key="4" type="xstring" value="-23.330024655169822"/>
 <entry key="5" type="xstring" value="27.259632619710256"/>
 <entry key="6" type="xstring" value="0.0"/>
-<entry key="7" type="xstring" value="12.10982967233397"/>
-<entry key="8" type="xstring" value="-60.547196082669586"/>
+<entry key="7" type="xstring" value="-152.62026402715895"/>
+<entry key="8" type="xstring" value="7.88722760487844"/>
 </config>
 <entry key="numProperties" type="xint" value="1"/>
 <config key="property_0">
@@ -359,8 +359,8 @@
 <entry key="4" type="xstring" value="-76.60720268789858"/>
 <entry key="5" type="xstring" value="55.607447248735774"/>
 <entry key="6" type="xstring" value="1.0"/>
-<entry key="7" type="xstring" value="-15.862630449894565"/>
-<entry key="8" type="xstring" value="57.40706614573827"/>
+<entry key="7" type="xstring" value="198.12057910012678"/>
+<entry key="8" type="xstring" value="-11.323533553982529"/>
 </config>
 <entry key="numProperties" type="xint" value="1"/>
 <config key="property_0">
@@ -379,8 +379,8 @@
 <entry key="4" type="xstring" value="130.8942109532837"/>
 <entry key="5" type="xstring" value="87.78042745283369"/>
 <entry key="6" type="xstring" value="1.0"/>
-<entry key="7" type="xstring" value="90.68091327089904"/>
-<entry key="8" type="xstring" value="-8.837228187567725"/>
+<entry key="7" type="xstring" value="230.7571253159324"/>
+<entry key="8" type="xstring" value="96.84039454354574"/>
 </config>
 <entry key="numProperties" type="xint" value="1"/>
 <config key="property_0">
@@ -399,8 +399,8 @@
 <entry key="4" type="xstring" value="27.54721097433055"/>
 <entry key="5" type="xstring" value="77.73886259222719"/>
 <entry key="6" type="xstring" value="1.0"/>
-<entry key="7" type="xstring" value="15.833966765053646"/>
-<entry key="8" type="xstring" value="-290.1705824116068"/>
+<entry key="7" type="xstring" value="197.38594774668144"/>
+<entry key="8" type="xstring" value="6.221880157315738"/>
 </config>
 <entry key="numProperties" type="xint" value="1"/>
 <config key="property_0">
@@ -419,8 +419,8 @@
 <entry key="4" type="xstring" value="-34.18786260494106"/>
 <entry key="5" type="xstring" value="71.07983287225449"/>
 <entry key="6" type="xstring" value="1.0"/>
-<entry key="7" type="xstring" value="17.273258465486542"/>
-<entry key="8" type="xstring" value="-46.42208923666496"/>
+<entry key="7" type="xstring" value="136.31933771201324"/>
+<entry key="8" type="xstring" value="17.687363500082093"/>
 </config>
 <entry key="numProperties" type="xint" value="1"/>
 <config key="property_0">
@@ -439,8 +439,8 @@
 <entry key="4" type="xstring" value="-19.15106558446587"/>
 <entry key="5" type="xstring" value="-75.90962183642442"/>
 <entry key="6" type="xstring" value="1.0"/>
-<entry key="7" type="xstring" value="-107.97861737155301"/>
-<entry key="8" type="xstring" value="98.8573072319172"/>
+<entry key="7" type="xstring" value="126.88316027492931"/>
+<entry key="8" type="xstring" value="-106.10772126959249"/>
 </config>
 <entry key="numProperties" type="xint" value="1"/>
 <config key="property_0">
@@ -459,8 +459,8 @@
 <entry key="4" type="xstring" value="51.687071735850864"/>
 <entry key="5" type="xstring" value="-37.34745768641681"/>
 <entry key="6" type="xstring" value="0.0"/>
-<entry key="7" type="xstring" value="-7.36183048427371"/>
-<entry key="8" type="xstring" value="-112.7676704434266"/>
+<entry key="7" type="xstring" value="-271.38184451396836"/>
+<entry key="8" type="xstring" value="-16.212916501905926"/>
 </config>
 <entry key="numProperties" type="xint" value="1"/>
 <config key="property_0">
@@ -479,8 +479,8 @@
 <entry key="4" type="xstring" value="1.7012862520006524"/>
 <entry key="5" type="xstring" value="13.6496222492087"/>
 <entry key="6" type="xstring" value="1.0"/>
-<entry key="7" type="xstring" value="-7.1706608816997885"/>
-<entry key="8" type="xstring" value="33.65058735623211"/>
+<entry key="7" type="xstring" value="20.441612557913537"/>
+<entry key="8" type="xstring" value="-5.6903884173716115"/>
 </config>
 <entry key="numProperties" type="xint" value="1"/>
 <config key="property_0">
@@ -499,8 +499,8 @@
 <entry key="4" type="xstring" value="-5.250805897054751"/>
 <entry key="5" type="xstring" value="64.17364577741355"/>
 <entry key="6" type="xstring" value="0.0"/>
-<entry key="7" type="xstring" value="58.2847330136595"/>
-<entry key="8" type="xstring" value="-45.012369698065484"/>
+<entry key="7" type="xstring" value="-89.0720252277473"/>
+<entry key="8" type="xstring" value="57.37237315645858"/>
 </config>
 <entry key="numProperties" type="xint" value="1"/>
 <config key="property_0">
@@ -519,8 +519,8 @@
 <entry key="4" type="xstring" value="18.021134703659087"/>
 <entry key="5" type="xstring" value="5.55822202668308"/>
 <entry key="6" type="xstring" value="0.0"/>
-<entry key="7" type="xstring" value="-13.365177573076934"/>
-<entry key="8" type="xstring" value="43.38050111085921"/>
+<entry key="7" type="xstring" value="-168.55244207464528"/>
+<entry key="8" type="xstring" value="-14.18801034181167"/>
 </config>
 <entry key="numProperties" type="xint" value="1"/>
 <config key="property_0">
@@ -539,8 +539,8 @@
 <entry key="4" type="xstring" value="1.8116072919547903"/>
 <entry key="5" type="xstring" value="1.366319387569717"/>
 <entry key="6" type="xstring" value="0.0"/>
-<entry key="7" type="xstring" value="-12.375605437532766"/>
-<entry key="8" type="xstring" value="-34.823477494792584"/>
+<entry key="7" type="xstring" value="-204.2023199467228"/>
+<entry key="8" type="xstring" value="-17.088064852401487"/>
 </config>
 <entry key="numProperties" type="xint" value="1"/>
 <config key="property_0">
@@ -559,8 +559,8 @@
 <entry key="4" type="xstring" value="-43.640524164583574"/>
 <entry key="5" type="xstring" value="-19.44970231177219"/>
 <entry key="6" type="xstring" value="0.0"/>
-<entry key="7" type="xstring" value="-58.493539873786226"/>
-<entry key="8" type="xstring" value="66.83142783306218"/>
+<entry key="7" type="xstring" value="-125.7067912438343"/>
+<entry key="8" type="xstring" value="-59.45867083449867"/>
 </config>
 <entry key="numProperties" type="xint" value="1"/>
 <config key="property_0">
@@ -579,8 +579,8 @@
 <entry key="4" type="xstring" value="34.65776437382683"/>
 <entry key="5" type="xstring" value="-175.37142668136488"/>
 <entry key="6" type="xstring" value="0.0"/>
-<entry key="7" type="xstring" value="-106.46854376209127"/>
-<entry key="8" type="xstring" value="-26.673616906527926"/>
+<entry key="7" type="xstring" value="-64.85329960446083"/>
+<entry key="8" type="xstring" value="-112.61912326278875"/>
 </config>
 <entry key="numProperties" type="xint" value="1"/>
 <config key="property_0">
@@ -599,8 +599,8 @@
 <entry key="4" type="xstring" value="103.26441726122295"/>
 <entry key="5" type="xstring" value="71.59143695132225"/>
 <entry key="6" type="xstring" value="1.0"/>
-<entry key="7" type="xstring" value="95.54025397374622"/>
-<entry key="8" type="xstring" value="-71.8636513351754"/>
+<entry key="7" type="xstring" value="78.39318028446056"/>
+<entry key="8" type="xstring" value="97.09063762990914"/>
 </config>
 <entry key="numProperties" type="xint" value="1"/>
 <config key="property_0">
@@ -619,8 +619,8 @@
 <entry key="4" type="xstring" value="1.8988741495914667"/>
 <entry key="5" type="xstring" value="-13.288245076714439"/>
 <entry key="6" type="xstring" value="0.0"/>
-<entry key="7" type="xstring" value="-27.937202757585354"/>
-<entry key="8" type="xstring" value="-19.915481515714937"/>
+<entry key="7" type="xstring" value="-245.06820969889012"/>
+<entry key="8" type="xstring" value="-33.131337658601446"/>
 </config>
 <entry key="numProperties" type="xint" value="1"/>
 <config key="property_0">
@@ -639,8 +639,8 @@
 <entry key="4" type="xstring" value="15.499816785579426"/>
 <entry key="5" type="xstring" value="-21.048684815048315"/>
 <entry key="6" type="xstring" value="0.0"/>
-<entry key="7" type="xstring" value="-16.345217808820138"/>
-<entry key="8" type="xstring" value="-6.340893170042307"/>
+<entry key="7" type="xstring" value="-240.08502871857561"/>
+<entry key="8" type="xstring" value="-20.425363306573388"/>
 </config>
 <entry key="numProperties" type="xint" value="1"/>
 <config key="property_0">
@@ -659,8 +659,8 @@
 <entry key="4" type="xstring" value="-239.20973927316186"/>
 <entry key="5" type="xstring" value="97.93792869060664"/>
 <entry key="6" type="xstring" value="0.0"/>
-<entry key="7" type="xstring" value="-4.2751822489172895"/>
-<entry key="8" type="xstring" value="344.6602389042958"/>
+<entry key="7" type="xstring" value="14.829944563249981"/>
+<entry key="8" type="xstring" value="10.992990341764227"/>
 </config>
 <entry key="numProperties" type="xint" value="1"/>
 <config key="property_0">
@@ -679,8 +679,8 @@
 <entry key="4" type="xstring" value="-71.50550259967477"/>
 <entry key="5" type="xstring" value="-134.62368933624703"/>
 <entry key="6" type="xstring" value="1.0"/>
-<entry key="7" type="xstring" value="434.198153077794"/>
-<entry key="8" type="xstring" value="55.163319699461"/>
+<entry key="7" type="xstring" value="206.50330698711196"/>
+<entry key="8" type="xstring" value="456.145837255042"/>
 </config>
 <entry key="numProperties" type="xint" value="1"/>
 <config key="property_0">
@@ -699,8 +699,8 @@
 <entry key="4" type="xstring" value="-0.7974975942559062"/>
 <entry key="5" type="xstring" value="-12.607562043337946"/>
 <entry key="6" type="xstring" value="0.0"/>
-<entry key="7" type="xstring" value="-19.261712125250146"/>
-<entry key="8" type="xstring" value="-25.013873524529437"/>
+<entry key="7" type="xstring" value="-370.5405625309789"/>
+<entry key="8" type="xstring" value="-26.001538040079062"/>
 </config>
 <entry key="numProperties" type="xint" value="1"/>
 <config key="property_0">
@@ -719,8 +719,8 @@
 <entry key="4" type="xstring" value="-0.9974356808623646"/>
 <entry key="5" type="xstring" value="-13.315101408591854"/>
 <entry key="6" type="xstring" value="0.0"/>
-<entry key="7" type="xstring" value="-19.456504862294064"/>
-<entry key="8" type="xstring" value="-25.31750138536985"/>
+<entry key="7" type="xstring" value="-370.54385678443276"/>
+<entry key="8" type="xstring" value="-26.21732765726132"/>
 </config>
 <entry key="numProperties" type="xint" value="1"/>
 <config key="property_0">
@@ -739,8 +739,8 @@
 <entry key="4" type="xstring" value="-0.6288043922706303"/>
 <entry key="5" type="xstring" value="-12.563287519481673"/>
 <entry key="6" type="xstring" value="0.0"/>
-<entry key="7" type="xstring" value="-19.14518039186091"/>
-<entry key="8" type="xstring" value="-25.404105804994252"/>
+<entry key="7" type="xstring" value="-370.84290310884097"/>
+<entry key="8" type="xstring" value="-25.901743740121084"/>
 </config>
 <entry key="numProperties" type="xint" value="1"/>
 <config key="property_0">
@@ -759,8 +759,8 @@
 <entry key="4" type="xstring" value="-0.6030587990856779"/>
 <entry key="5" type="xstring" value="-12.853406770380243"/>
 <entry key="6" type="xstring" value="0.0"/>
-<entry key="7" type="xstring" value="-19.207832429161428"/>
-<entry key="8" type="xstring" value="-25.540352236739718"/>
+<entry key="7" type="xstring" value="-371.13316948225446"/>
+<entry key="8" type="xstring" value="-25.976671319082634"/>
 </config>
 <entry key="numProperties" type="xint" value="1"/>
 <config key="property_0">
@@ -779,8 +779,8 @@
 <entry key="4" type="xstring" value="-0.6030587990856779"/>
 <entry key="5" type="xstring" value="-12.853406770380243"/>
 <entry key="6" type="xstring" value="0.0"/>
-<entry key="7" type="xstring" value="-19.207832429161428"/>
-<entry key="8" type="xstring" value="-25.540352236739718"/>
+<entry key="7" type="xstring" value="-371.13316948225446"/>
+<entry key="8" type="xstring" value="-25.976671319082634"/>
 </config>
 <entry key="numProperties" type="xint" value="1"/>
 <config key="property_0">
@@ -799,8 +799,8 @@
 <entry key="4" type="xstring" value="83.59505628932928"/>
 <entry key="5" type="xstring" value="-47.46596026533206"/>
 <entry key="6" type="xstring" value="1.0"/>
-<entry key="7" type="xstring" value="23.516322361704436"/>
-<entry key="8" type="xstring" value="148.86572635202464"/>
+<entry key="7" type="xstring" value="358.71014085874674"/>
+<entry key="8" type="xstring" value="35.74010971361578"/>
 </config>
 <entry key="numProperties" type="xint" value="1"/>
 <config key="property_0">
@@ -819,8 +819,8 @@
 <entry key="4" type="xstring" value="-73.78396942394772"/>
 <entry key="5" type="xstring" value="-0.20688568835671584"/>
 <entry key="6" type="xstring" value="2.0"/>
-<entry key="7" type="xstring" value="-73.99432634033445"/>
-<entry key="8" type="xstring" value="-134.12736219787072"/>
+<entry key="7" type="xstring" value="674.6844595640912"/>
+<entry key="8" type="xstring" value="-73.88185357300864"/>
 </config>
 <entry key="numProperties" type="xint" value="1"/>
 <config key="property_0">
@@ -839,8 +839,8 @@
 <entry key="4" type="xstring" value="42.19544202043717"/>
 <entry key="5" type="xstring" value="-78.1625290081761"/>
 <entry key="6" type="xstring" value="1.0"/>
-<entry key="7" type="xstring" value="-72.18806828955199"/>
-<entry key="8" type="xstring" value="149.4217111611492"/>
+<entry key="7" type="xstring" value="242.6983346678145"/>
+<entry key="8" type="xstring" value="-65.16997387355687"/>
 </config>
 <entry key="numProperties" type="xint" value="1"/>
 <config key="property_0">
@@ -859,8 +859,8 @@
 <entry key="4" type="xstring" value="0.19981504140279593"/>
 <entry key="5" type="xstring" value="-12.529779027521283"/>
 <entry key="6" type="xstring" value="0.0"/>
-<entry key="7" type="xstring" value="-20.097443772696156"/>
-<entry key="8" type="xstring" value="-24.619159203858416"/>
+<entry key="7" type="xstring" value="-370.2093838762274"/>
+<entry key="8" type="xstring" value="-26.847754363673918"/>
 </config>
 <entry key="numProperties" type="xint" value="1"/>
 <config key="property_0">
@@ -879,8 +879,8 @@
 <entry key="4" type="xstring" value="-94.0795837920544"/>
 <entry key="5" type="xstring" value="-38.12970099841696"/>
 <entry key="6" type="xstring" value="2.0"/>
-<entry key="7" type="xstring" value="-99.46554479268605"/>
-<entry key="8" type="xstring" value="-109.1328689763269"/>
+<entry key="7" type="xstring" value="1860.7872637794205"/>
+<entry key="8" type="xstring" value="-83.58171487395188"/>
 </config>
 <entry key="numProperties" type="xint" value="1"/>
 <config key="property_0">
@@ -899,8 +899,8 @@
 <entry key="4" type="xstring" value="198.25966673804803"/>
 <entry key="5" type="xstring" value="54.64149281360808"/>
 <entry key="6" type="xstring" value="2.0"/>
-<entry key="7" type="xstring" value="-27.000394733439833"/>
-<entry key="8" type="xstring" value="381.8881734951361"/>
+<entry key="7" type="xstring" value="951.4398515361192"/>
+<entry key="8" type="xstring" value="1.3940131070627615"/>
 </config>
 <entry key="numProperties" type="xint" value="1"/>
 <config key="property_0">
@@ -919,8 +919,8 @@
 <entry key="4" type="xstring" value="-1.2098776626941068"/>
 <entry key="5" type="xstring" value="25.267980436565438"/>
 <entry key="6" type="xstring" value="0.0"/>
-<entry key="7" type="xstring" value="14.660464671085839"/>
-<entry key="8" type="xstring" value="-46.84617520434519"/>
+<entry key="7" type="xstring" value="-118.69880394225308"/>
+<entry key="8" type="xstring" value="11.589794640974858"/>
 </config>
 <entry key="numProperties" type="xint" value="1"/>
 <config key="property_0">
