@@ -210,11 +210,11 @@ rect.nv-bar.positive { cursor: pointer; }</style><text x="20" y="30" id="title"
             <g class="nv-barsWrap nvd3-svg">
                 <g class="nvd3 nv-wrap nv-multibar" transform="translate(0,0)">
                     <defs>
-                        <clipPath id="nv-edge-clip-2020">
+                        <clipPath id="nv-edge-clip-4970">
                             <rect width="771.3125" height="511"/>
                         </clipPath>
                     </defs>
-                    <g clip-path="url(#nv-edge-clip-2020)">
+                    <g clip-path="url(#nv-edge-clip-4970)">
                         <g class="nv-groups">
                             <g class="nv-group nv-series-0"
                                style="stroke-opacity: 1; fill-opacity: 0.75; fill: rgb(31, 119, 180); stroke: rgb(31, 119, 180);">

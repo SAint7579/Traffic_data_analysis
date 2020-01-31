@@ -8,10 +8,10 @@
 <entry key="authored-by" type="xstring" value="Admin"/>
 <entry key="authored-when" type="xstring" value="2020-01-28 21:58:24 +0530"/>
 <entry key="lastEdited-by" type="xstring" value="Admin"/>
-<entry key="lastEdited-when" type="xstring" value="2020-01-29 12:26:38 +0530"/>
+<entry key="lastEdited-when" type="xstring" value="2020-01-30 11:49:22 +0530"/>
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
-<entry key="state" type="xstring" value="CONFIGURED"/>
+<entry key="state" type="xstring" value="EXECUTED"/>
 <config key="workflow_credentials"/>
 <config key="nodes">
 <config key="node_2">
@@ -418,7 +418,7 @@
 <entry key="workflow.editor.ShowGrid" type="xboolean" value="true"/>
 <entry key="workflow.editor.gridX" type="xint" value="20"/>
 <entry key="workflow.editor.gridY" type="xint" value="20"/>
-<entry key="workflow.editor.zoomLevel" type="xdouble" value="0.67"/>
+<entry key="workflow.editor.zoomLevel" type="xdouble" value="0.9"/>
 <entry key="workflow.editor.curvedConnections" type="xboolean" value="false"/>
 <entry key="workflow.editor.connectionWidth" type="xint" value="1"/>
 </config>
